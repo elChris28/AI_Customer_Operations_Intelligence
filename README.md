@@ -72,6 +72,8 @@ Generador de datos sintéticos
  Dashboard         Copiloto analítico
 ```
 
+![ARCHITECTURE](docs/ARCHITECTURE.png)
+
 ---
 
 ## Tecnologías utilizadas
