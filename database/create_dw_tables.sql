@@ -1,3 +1,5 @@
+CREATE DATABASE AI_Customer_Operations_Intelligence;
+
 USE AI_Customer_Operations_Intelligence;
 GO
 
