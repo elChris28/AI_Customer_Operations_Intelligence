@@ -22,11 +22,6 @@ from queries import (
     tasa_conversion,
     satisfaccion_promedio,
     tiempo_promedio,
-    conversion_por_canal,
-    errores_por_intencion,
-    satisfaccion_por_servicio,
-    conversaciones_por_estado,
-    conversaciones_por_intencion,
     obtener_conversaciones
 )
 
