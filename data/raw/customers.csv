@@ -1,0 +1,2001 @@
+﻿ClienteID,Nombre,Edad,Genero,Distrito,TipoCliente
+1,Montserrat Navarrete,37,Masculino,Jesús María,Nuevo
+2,Estefanía Pagès,21,Masculino,San Borja,Nuevo
+3,Lorenzo Cazorla Oliver,38,Femenino,Pueblo Libre,Nuevo
+4,Jacinta Castilla-Llamas,25,Femenino,Lince,Frecuente
+5,Victoriano Garzón,47,Masculino,San Isidro,Nuevo
+6,Ismael Colom-Gámez,30,Masculino,San Borja,Frecuente
+7,Anastasia Luque-Arregui,67,Femenino,La Molina,Frecuente
+8,Glauco Botella Tomás,65,Masculino,Lince,Frecuente
+9,Chucho Barceló Sanjuan,41,Masculino,Miraflores,Nuevo
+10,Hugo Rodrigo Parejo,49,Femenino,San Isidro,Frecuente
+11,Abraham Bueno Montaña,23,Masculino,Surco,Nuevo
+12,Nilo Villena Ferrera,54,Masculino,San Borja,VIP
+13,Gema del Gimenez,38,Femenino,San Isidro,Nuevo
+14,Imelda Castell Mascaró,43,Femenino,Jesús María,Nuevo
+15,Leocadio España-Camino,37,Femenino,Barranco,Frecuente
+16,Mireia Eulalia Andres Vélez,65,Femenino,Barranco,Nuevo
+17,Hilario Álvaro Pineda,67,Masculino,San Borja,VIP
+18,Inmaculada Molins,26,Femenino,San Isidro,Nuevo
+19,Griselda Hoz Alba,25,Femenino,Miraflores,Nuevo
+20,Eliana Millán Bernad,38,Femenino,Miraflores,Frecuente
+21,Graciano Morera Nuñez,67,Masculino,Jesús María,Frecuente
+22,Aroa Perea Porcel,70,Femenino,Pueblo Libre,Nuevo
+23,Valentina Marti,43,Femenino,Miraflores,Frecuente
+24,Consuela Armengol Torrents,41,Masculino,La Molina,VIP
+25,Renata Abella,45,Femenino,Pueblo Libre,Nuevo
+26,Hilario Montalbán Saldaña,63,Femenino,Barranco,Frecuente
+27,Jose Manuel de Garzón,70,Femenino,San Miguel,Frecuente
+28,Benito Neira Milla,25,Masculino,Lince,Frecuente
+29,Encarnacion Agudo Baños,31,Masculino,Surco,Frecuente
+30,Angelita Goñi Ricart,40,Masculino,Jesús María,Nuevo
+31,José Luis Blanco Salvador,40,Masculino,Miraflores,Nuevo
+32,Alcides Vega,24,Masculino,Lince,Nuevo
+33,Abilio Ayala Gálvez,49,Masculino,San Isidro,VIP
+34,Salvador Pellicer-Botella,24,Masculino,Lince,Frecuente
+35,Raúl de Gabaldón,35,Femenino,San Isidro,Frecuente
+36,María José Sola Ortega,38,Femenino,San Borja,Nuevo
+37,Luis Miguel de Donaire,23,Femenino,Miraflores,Nuevo
+38,Amando de Campo,21,Masculino,San Borja,Frecuente
+39,Paula Sarmiento Sotelo,46,Masculino,Lince,Nuevo
+40,Ernesto Nevado Lago,40,Masculino,Barranco,Frecuente
+41,Maribel Bueno Rubio,26,Femenino,San Isidro,Nuevo
+42,Tadeo Benítez-Tello,64,Masculino,Miraflores,Nuevo
+43,Isidro Blanch Arenas,22,Masculino,San Miguel,Frecuente
+44,Candelaria Luján Aguirre,56,Masculino,Barranco,Nuevo
+45,Carla de Múgica,69,Femenino,San Borja,Nuevo
+46,Cecilia Albero Valbuena,27,Masculino,Jesús María,Nuevo
+47,Esther Monreal Santos,47,Femenino,Surco,Nuevo
+48,Lupita Tudela-Salcedo,42,Femenino,Pueblo Libre,Nuevo
+49,Martina Bustamante García,64,Femenino,San Miguel,Nuevo
+50,Vinicio Cal Bermejo,34,Masculino,Surco,Nuevo
+51,Jose Ramón Germán Jara Barreda,60,Femenino,San Isidro,Nuevo
+52,Pastora Gonzalez,61,Femenino,Barranco,VIP
+53,Dora Luján Urrutia,29,Femenino,Pueblo Libre,Nuevo
+54,Vinicio Noriega-Plana,42,Masculino,San Borja,Frecuente
+55,Federico Castrillo Diez,63,Femenino,Surco,Frecuente
+56,Amarilis Aramburu Alcaraz,33,Masculino,Barranco,Nuevo
+57,Manu Mercader Carranza,56,Masculino,San Isidro,Frecuente
+58,Petrona Verdú-Gonzalez,33,Femenino,Barranco,Frecuente
+59,Adelaida Dora Guijarro Rocha,60,Masculino,San Miguel,Nuevo
+60,Pepe Royo Cañizares,20,Masculino,La Molina,Frecuente
+61,Paulina Pujol Franco,56,Femenino,San Isidro,VIP
+62,Florina Valenzuela-Palomino,34,Masculino,Surco,Frecuente
+63,Amancio Hervás Baró,50,Masculino,Jesús María,Frecuente
+64,Abel Nogués Bou,33,Masculino,Jesús María,Nuevo
+65,Iris Rosalía Castillo Chacón,20,Masculino,Jesús María,Frecuente
+66,Sara Guillén-Barroso,65,Masculino,Pueblo Libre,Nuevo
+67,Carmen Fuertes Solano,43,Masculino,La Molina,VIP
+68,Febe Alberdi Gutierrez,38,Femenino,Jesús María,Frecuente
+69,Adalberto Fábregas Lluch,39,Femenino,Lince,Nuevo
+70,Dan Ernesto Rosales Cano,51,Masculino,San Borja,VIP
+71,Hugo Sevilla Daza,31,Masculino,La Molina,Frecuente
+72,Lorena del Toro,64,Masculino,Lince,Frecuente
+73,Hilario Lago Dominguez,45,Masculino,Jesús María,Nuevo
+74,Martin Abad Ojeda,50,Masculino,San Borja,Nuevo
+75,Nazaret Busquets Mate,56,Femenino,San Borja,Frecuente
+76,Leocadio Gámez Moliner,39,Femenino,Pueblo Libre,Frecuente
+77,Nadia Soraya Yuste Briones,23,Femenino,Lince,VIP
+78,Ariel Bou Guardia,58,Masculino,Jesús María,Frecuente
+79,Édgar Ariño Zamorano,55,Masculino,San Miguel,VIP
+80,Amílcar Dominguez Pavón,36,Femenino,Miraflores,Frecuente
+81,Leonardo Valcárcel Navarro,62,Femenino,San Borja,Nuevo
+82,Zaida Goñi Ribas,39,Masculino,Lince,Nuevo
+83,Olegario Olivé Gómez,26,Masculino,San Borja,Frecuente
+84,Dan Luis Jaén Lobo,18,Femenino,San Isidro,Frecuente
+85,Jose Miguel Tejada Gonzalez,53,Femenino,Miraflores,Nuevo
+86,Fidela Uribe Corominas,61,Masculino,Lince,Nuevo
+87,Montserrat Velázquez,38,Masculino,Miraflores,Nuevo
+88,Tito Peñas-Cabrero,58,Femenino,San Miguel,Nuevo
+89,Filomena Ayuso Cabo,44,Masculino,Miraflores,Frecuente
+90,Rogelio Baró Adán,65,Femenino,Surco,Frecuente
+91,Angelita Guzman Cañellas,52,Masculino,Barranco,Frecuente
+92,Emperatriz de Bolaños,45,Masculino,Lince,Nuevo
+93,Consuelo Tamarit Catalán,40,Masculino,Miraflores,Frecuente
+94,Victor Flor Clavero,29,Masculino,Jesús María,Frecuente
+95,Jerónimo Cabrero-Albero,63,Femenino,Barranco,Frecuente
+96,Albano Cabo Mariño,67,Masculino,La Molina,Nuevo
+97,Nazario Ocaña,35,Femenino,La Molina,Nuevo
+98,Maricruz del Cortina,61,Masculino,San Miguel,Nuevo
+99,Macaria Saturnina Raya Gimeno,38,Femenino,San Isidro,Nuevo
+100,Paca Mancebo Vizcaíno,40,Femenino,Jesús María,Frecuente
+101,Bienvenida Santos Losada,20,Femenino,La Molina,Frecuente
+102,América Portillo-Rios,39,Femenino,San Miguel,VIP
+103,Severino Aitor Tejada Verdugo,68,Femenino,Pueblo Libre,Nuevo
+104,Severino Porta Carrillo,41,Femenino,Lince,Nuevo
+105,Fátima Lobo-Villalonga,51,Femenino,Jesús María,Nuevo
+106,Toni Márquez Verdejo,21,Masculino,Miraflores,Frecuente
+107,Graciela Raquel Bernad Abella,61,Masculino,San Borja,Nuevo
+108,Cristian Feijoo Villalba,66,Femenino,Surco,Frecuente
+109,Asdrubal Alemán Rodrigo,70,Masculino,San Miguel,Nuevo
+110,Hortensia Artigas Vizcaíno,56,Masculino,Surco,Nuevo
+111,Dafne Rodríguez Sala,52,Femenino,Miraflores,Nuevo
+112,Cipriano Gracia Ramirez,34,Femenino,Barranco,Frecuente
+113,Remigio Pascual Roda,45,Femenino,Lince,Frecuente
+114,Martín Gómez Martí,51,Masculino,Lince,Nuevo
+115,Cruz Iglesia Cano,27,Femenino,Miraflores,Nuevo
+116,Florentina de Barros,30,Femenino,La Molina,Frecuente
+117,Guadalupe Lago Juárez,21,Masculino,Surco,Nuevo
+118,Adelardo de Sedano,34,Masculino,San Isidro,VIP
+119,Wálter Toni Hervás Tur,23,Masculino,Lince,Nuevo
+120,Eric Guadalupe Roca Mascaró,32,Femenino,Surco,Nuevo
+121,Heliodoro Vall Moreno,64,Masculino,Pueblo Libre,Nuevo
+122,Perla Llamas Atienza,32,Masculino,Miraflores,Nuevo
+123,Natalia del Bernat,54,Masculino,Barranco,Frecuente
+124,Pili Villena Trillo,42,Femenino,Pueblo Libre,Nuevo
+125,Baldomero Salmerón Dávila,65,Femenino,Lince,Frecuente
+126,Abigaíl Ripoll Tolosa,21,Femenino,Lince,Frecuente
+127,Milagros Aznar Mora,57,Femenino,La Molina,Nuevo
+128,Donato Ferrera Villaverde,41,Masculino,San Miguel,Nuevo
+129,Toribio Espejo-Seco,22,Femenino,Barranco,Nuevo
+130,Sebastian del Roman,25,Femenino,La Molina,Nuevo
+131,Luz Sanchez,31,Masculino,San Miguel,Nuevo
+132,Nicolás Gomis Casado,62,Femenino,Pueblo Libre,Nuevo
+133,Alejandro Barros Porras,33,Femenino,Barranco,Frecuente
+134,Yago Espinosa Pinedo,64,Femenino,San Isidro,Nuevo
+135,Loreto Carrera Collado,41,Masculino,San Isidro,VIP
+136,Pili Arnau Zurita,67,Masculino,Miraflores,Nuevo
+137,Joaquín Villaverde Costa,47,Masculino,San Miguel,Frecuente
+138,Martirio Ángela Manzanares Alba,35,Femenino,Surco,Frecuente
+139,Albano Reig Figueras,54,Masculino,Barranco,Nuevo
+140,Rufina Osorio Solana,47,Femenino,Barranco,Nuevo
+141,Graciano Español Aguilar,20,Masculino,Jesús María,Nuevo
+142,Desiderio Marín-Cardona,21,Femenino,Barranco,Nuevo
+143,Vanesa Rosa María Núñez Ruano,59,Femenino,San Borja,Nuevo
+144,Toño del Menendez,41,Femenino,Barranco,Frecuente
+145,Felix Terrón Sans,41,Femenino,San Isidro,VIP
+146,Hernando Taboada Casal,40,Masculino,San Borja,Frecuente
+147,Gabriela Cruz Taboada Bauzà,24,Femenino,Surco,Nuevo
+148,Encarnacion Leticia Angulo Arnaiz,44,Masculino,Surco,Nuevo
+149,Lilia Mate Rozas,70,Femenino,San Miguel,Nuevo
+150,Judith Balaguer Castellanos,68,Masculino,La Molina,Frecuente
+151,Itziar Morera Losa,28,Masculino,San Isidro,Frecuente
+152,Montserrat del Cepeda,63,Masculino,Surco,Nuevo
+153,Severo Pazos Hernandez,48,Masculino,San Borja,Frecuente
+154,Custodia Alcaraz Carmona,35,Masculino,Surco,Frecuente
+155,Áurea Agustí Pujadas,21,Femenino,Miraflores,Nuevo
+156,Renato Piñeiro Huertas,34,Masculino,Pueblo Libre,Nuevo
+157,Saturnina Carmona Segovia,65,Femenino,Pueblo Libre,VIP
+158,Ágata de Saavedra,51,Femenino,Jesús María,Nuevo
+159,Filomena Villanueva Criado,24,Femenino,Miraflores,Nuevo
+160,Nélida Sanz,41,Femenino,Pueblo Libre,Nuevo
+161,Íñigo Quero,46,Masculino,San Miguel,Nuevo
+162,Estefanía Eliana Pedrosa Farré,66,Masculino,Surco,Nuevo
+163,Angelina Gimeno,63,Masculino,San Miguel,Nuevo
+164,Eva Pastora Marí Salvador,62,Femenino,Miraflores,Nuevo
+165,Antonio Leiva Guitart,26,Masculino,San Borja,Nuevo
+166,Jacinta del Cabezas,31,Masculino,Jesús María,Frecuente
+167,Encarnación Alemany González,48,Masculino,Miraflores,VIP
+168,Fidela Grande,24,Masculino,Miraflores,Nuevo
+169,Adelina Luís-Pareja,59,Masculino,Lince,Frecuente
+170,Baltasar Jose Francisco Rincón Clemente,62,Femenino,San Borja,Nuevo
+171,Pastora Joaquina Cano Carvajal,55,Masculino,Jesús María,Frecuente
+172,Galo Vega Parejo,52,Masculino,San Borja,VIP
+173,Dan Reinaldo Guerra Carrillo,36,Femenino,Barranco,Frecuente
+174,Sandalio de Sanmiguel,47,Masculino,Barranco,Frecuente
+175,Ciríaco Larrea Caballero,67,Femenino,San Miguel,Nuevo
+176,Iker Armando Sarabia Castillo,19,Masculino,San Miguel,Nuevo
+177,Calisto Pastor Alfaro Pedrosa,51,Femenino,Miraflores,Frecuente
+178,Régulo Bru Rivas,19,Femenino,San Isidro,Frecuente
+179,Maristela Donaire Bravo,25,Masculino,Surco,Nuevo
+180,Martirio Anabel Agudo Vendrell,55,Masculino,Miraflores,Nuevo
+181,Jerónimo Adán,48,Masculino,Pueblo Libre,Frecuente
+182,Ernesto Bernad,60,Femenino,San Miguel,VIP
+183,Natanael Valentín Andrés,61,Femenino,Surco,Nuevo
+184,César Garzón Bustamante,23,Femenino,La Molina,Nuevo
+185,Joel Arce Colom,31,Femenino,Pueblo Libre,Nuevo
+186,Hipólito Lobato Espinosa,62,Masculino,San Borja,Nuevo
+187,Aurelia Serafina Bou Taboada,26,Femenino,Lince,Nuevo
+188,Rosario María Luisa Rosa Granados,67,Femenino,Miraflores,Nuevo
+189,Nieves del Llano,32,Femenino,Lince,Nuevo
+190,Lorenza del Jerez,43,Masculino,Barranco,Frecuente
+191,Abraham Jordán Adadia,66,Femenino,Lince,Nuevo
+192,Arcelia Blanes,53,Femenino,San Miguel,Nuevo
+193,Tadeo Casas Nogués,39,Masculino,San Borja,Nuevo
+194,Erasmo de Pineda,35,Femenino,Miraflores,Nuevo
+195,Heraclio del Ángel,32,Masculino,San Isidro,Nuevo
+196,Manola Cuéllar Rosales,24,Masculino,San Isidro,Frecuente
+197,Teófilo de Lloret,19,Masculino,San Miguel,Frecuente
+198,Teo de Goicoechea,34,Masculino,San Isidro,Frecuente
+199,Marcia Leal Fernández,70,Femenino,La Molina,Frecuente
+200,Nereida Chaparro Vidal,40,Masculino,Miraflores,Frecuente
+201,Zaira Fábregas Díaz,65,Femenino,Lince,Nuevo
+202,Jessica Ileana Valera Arnal,49,Masculino,San Isidro,Nuevo
+203,Toribio Manrique-Sarabia,59,Femenino,Miraflores,Nuevo
+204,Calixto Riba Rosado,47,Femenino,San Miguel,Frecuente
+205,Salomón Crespo-Isern,23,Masculino,San Borja,Nuevo
+206,Marcelino Garcés-Recio,60,Femenino,San Isidro,Nuevo
+207,Marta Adadia Lorenzo,19,Masculino,Lince,Nuevo
+208,Prudencia Valcárcel,41,Femenino,Lince,Nuevo
+209,Tomasa Vara Oliva,42,Masculino,Pueblo Libre,Frecuente
+210,Sabas Lasa Escudero,55,Masculino,La Molina,Nuevo
+211,Ale Hierro Fabregat,47,Masculino,Miraflores,Nuevo
+212,Josué del Diez,58,Femenino,San Borja,Frecuente
+213,Herminio Carbó Bonilla,43,Masculino,La Molina,Nuevo
+214,María Fernanda María Del Carmen Álvaro Cervantes,32,Femenino,La Molina,Frecuente
+215,Blas Suarez-Andreu,41,Masculino,San Miguel,Nuevo
+216,Francisco Javier Múñiz,61,Femenino,San Isidro,Frecuente
+217,Gala Huerta Solera,68,Femenino,San Isidro,Frecuente
+218,Marta Barbero Méndez,54,Masculino,Pueblo Libre,Nuevo
+219,Amor Peña,42,Masculino,San Isidro,Nuevo
+220,Odalis Roselló Peiró,68,Femenino,Barranco,Frecuente
+221,Anselmo Vega Rueda,65,Masculino,Pueblo Libre,Frecuente
+222,Edu Maestre Figuerola,27,Masculino,Surco,Nuevo
+223,Pepita Martin Sanabria,45,Femenino,Jesús María,Nuevo
+224,María José Cantón Fuente,21,Masculino,San Miguel,Frecuente
+225,Plácido Meléndez Anglada,20,Masculino,Pueblo Libre,Frecuente
+226,Aroa Cabrera-Barrio,41,Masculino,La Molina,Nuevo
+227,Melchor Peñas,41,Masculino,Jesús María,Frecuente
+228,Rosendo Barrio Ávila,48,Masculino,Surco,Frecuente
+229,Marta Reina-Roman,36,Masculino,Lince,Nuevo
+230,Otilia Araceli Beltran Sarmiento,53,Masculino,Surco,Frecuente
+231,Obdulia Escribano Maza,39,Femenino,La Molina,Nuevo
+232,Lino Antúnez Blázquez,63,Masculino,San Miguel,VIP
+233,Adrián Isaías Mena Rodríguez,27,Femenino,San Isidro,Nuevo
+234,Nidia Frías Valcárcel,33,Masculino,Barranco,Nuevo
+235,Concha Cózar-Vara,56,Masculino,Barranco,VIP
+236,Juan Carlos Barón Ocaña,35,Femenino,Jesús María,Nuevo
+237,Ruth del Cuesta,62,Femenino,Surco,Nuevo
+238,Julio Gascón Carpio,18,Masculino,Barranco,Nuevo
+239,Dan del Clavero,44,Masculino,Lince,Nuevo
+240,Vidal Canales-Carro,49,Masculino,Pueblo Libre,Frecuente
+241,Benita de Espejo,58,Masculino,Jesús María,Nuevo
+242,Lalo Garcia-Guardia,35,Femenino,Barranco,Nuevo
+243,Valero Toño Tormo Montoya,67,Femenino,San Miguel,Nuevo
+244,Ernesto Herrera-Pablo,21,Masculino,San Isidro,Frecuente
+245,Mireia Abascal Lago,25,Masculino,San Miguel,Frecuente
+246,Pedro Llabrés Cerdán,28,Masculino,San Borja,Frecuente
+247,Cristian Barrio Laguna,59,Femenino,Miraflores,VIP
+248,Dominga Ruano Valls,60,Femenino,San Miguel,Nuevo
+249,Humberto Pujadas Pedrosa,49,Femenino,Pueblo Libre,Nuevo
+250,Susanita Marqués Gual,26,Femenino,Jesús María,Nuevo
+251,Carlos Requena Pellicer,32,Masculino,Barranco,Frecuente
+252,Chuy Alarcón Manuel,61,Femenino,Pueblo Libre,Frecuente
+253,Gabino Montserrat Cal,23,Masculino,San Borja,Nuevo
+254,Teo Lorenzo Rivera,56,Masculino,San Miguel,Nuevo
+255,María Ángeles Teruel,32,Masculino,San Miguel,Nuevo
+256,Jacinta del Marti,29,Femenino,Jesús María,Nuevo
+257,Bernarda Pintor Arjona,63,Masculino,Jesús María,Frecuente
+258,Rico Nazario Cortés Agudo,67,Masculino,San Miguel,VIP
+259,Etelvina Seguí Miguel,50,Masculino,Pueblo Libre,Frecuente
+260,Plinio Agustí Antón,56,Femenino,Barranco,Frecuente
+261,Macaria Beltran Moliner,19,Femenino,Lince,Nuevo
+262,Fortunato Pedraza Coello,20,Masculino,La Molina,Nuevo
+263,Fátima Bárcena-Ferrández,35,Femenino,Barranco,VIP
+264,Teodosio Fiol Collado,40,Femenino,Lince,Frecuente
+265,Rodrigo Gámez,56,Masculino,San Borja,Nuevo
+266,Concepción Echeverría-Varela,44,Femenino,Miraflores,Nuevo
+267,Crescencia Cañas Cortina,29,Femenino,San Borja,Nuevo
+268,Amor Varela Aliaga,18,Femenino,Surco,Frecuente
+269,Eutimio Hernandez Colom,62,Masculino,Surco,Nuevo
+270,Felicidad Olivé,50,Femenino,Lince,Nuevo
+271,Juana Francisco Cámara,41,Femenino,Surco,Nuevo
+272,Lope Julio César Navarrete Barrios,34,Femenino,La Molina,Frecuente
+273,Apolonia Hernandez Sancho,27,Femenino,Lince,Nuevo
+274,Anselma Alarcón-Oller,43,Masculino,Jesús María,Frecuente
+275,Isa de Francisco,54,Femenino,Surco,Nuevo
+276,Serafina Plaza,58,Femenino,San Miguel,Nuevo
+277,Jose Valencia Montserrat,55,Femenino,Surco,Nuevo
+278,Edgardo de Mancebo,24,Masculino,Lince,Nuevo
+279,Nacho Trillo Monreal,21,Masculino,Pueblo Libre,Frecuente
+280,Teodora Cuéllar,28,Masculino,San Miguel,Frecuente
+281,José Luis Artigas,64,Masculino,La Molina,Frecuente
+282,Chucho Vizcaíno Velasco,58,Femenino,Jesús María,Frecuente
+283,Pablo Figuerola-Cerdá,36,Femenino,Jesús María,Frecuente
+284,Natividad Gonzalo Ramírez,64,Masculino,San Isidro,Frecuente
+285,Cristina de Cerdán,20,Femenino,Jesús María,Frecuente
+286,Consuela Alcolea Salom,42,Masculino,Surco,Nuevo
+287,Guiomar Pelayo Teruel Goicoechea,66,Femenino,Surco,VIP
+288,Manuel Cal Cuéllar,65,Masculino,Pueblo Libre,Nuevo
+289,Eustaquio Moles Abellán,43,Femenino,San Miguel,Frecuente
+290,Lara de Gomila,25,Masculino,Pueblo Libre,Nuevo
+291,Fabricio Prieto Querol,61,Masculino,Miraflores,Nuevo
+292,Dorita Santamaría Montenegro,44,Femenino,Jesús María,Nuevo
+293,Rosenda Gascón Rocha,34,Masculino,La Molina,Nuevo
+294,Juan Francisco Acuña Mas,28,Femenino,Pueblo Libre,Nuevo
+295,Florina Ocaña Cazorla,24,Femenino,San Borja,Frecuente
+296,Toño Oliveras Vargas,61,Masculino,Jesús María,Nuevo
+297,Íñigo Fernández Torres,32,Femenino,Surco,Frecuente
+298,Xiomara Bayón Alcalá,58,Masculino,La Molina,Frecuente
+299,Gervasio del Peralta,68,Femenino,Barranco,VIP
+300,Gema Escolano Mármol,18,Femenino,San Borja,Frecuente
+301,Rosaura Uribe,40,Masculino,Pueblo Libre,Nuevo
+302,Alfredo de Figueroa,19,Femenino,San Borja,Frecuente
+303,Carmela Acuña,48,Masculino,Surco,Nuevo
+304,Ángel Ruiz Muro,54,Femenino,Surco,Nuevo
+305,Rufina Lasa Amigó,58,Femenino,Lince,Frecuente
+306,Amancio López Alberto,20,Masculino,Pueblo Libre,Nuevo
+307,Jose Carlos Mayol Juan,63,Femenino,Pueblo Libre,Frecuente
+308,Débora Pedrosa Arco,56,Masculino,San Isidro,Nuevo
+309,Hernán Arroyo Pereira,25,Femenino,Jesús María,Frecuente
+310,Bartolomé Estrada Garzón,36,Femenino,Surco,VIP
+311,Sol Rosaura Amador Carretero,18,Masculino,San Miguel,Frecuente
+312,Crescencia Amor Bayona,62,Masculino,Miraflores,Frecuente
+313,Jose Macario Alba Barroso,23,Femenino,Barranco,Nuevo
+314,Jenaro Corral Marín,46,Femenino,San Miguel,Frecuente
+315,Lucila Carretero Pedraza,60,Masculino,San Borja,Nuevo
+316,Diego Bernat-Rodrigo,33,Femenino,Miraflores,Frecuente
+317,María José Elvira Almansa Silva,63,Masculino,Pueblo Libre,Nuevo
+318,Jose Ignacio Romero Torrent,22,Femenino,Jesús María,VIP
+319,Cloe Calvet Conesa,41,Femenino,La Molina,Frecuente
+320,Josep Canals Borrego,42,Masculino,Lince,Nuevo
+321,Azahar Pacheco Sanchez,26,Femenino,Jesús María,Nuevo
+322,Chus Diez-Lamas,20,Masculino,San Borja,Frecuente
+323,María Pilar Maza Nuñez,20,Masculino,La Molina,Nuevo
+324,Áurea Rueda Morales,38,Femenino,Jesús María,Nuevo
+325,Vito Benitez Cifuentes,42,Femenino,Jesús María,Frecuente
+326,Teodora Salcedo Tapia,60,Masculino,Surco,Nuevo
+327,Raimundo Batalla Águila,35,Femenino,San Borja,Nuevo
+328,Eugenio Félix Bravo Valenzuela,28,Femenino,Lince,Frecuente
+329,Enrique del Perea,35,Femenino,Barranco,Nuevo
+330,Jose Angel del Roldán,45,Masculino,La Molina,Frecuente
+331,Ulises Abril Codina,28,Femenino,San Miguel,Nuevo
+332,Inés Ayuso Aparicio,24,Femenino,San Miguel,Nuevo
+333,Luisa Cañas-Ferrera,40,Masculino,San Miguel,Frecuente
+334,Iker Espiridión Llopis Flor,69,Femenino,La Molina,VIP
+335,Marita Anselma Prada Artigas,20,Masculino,Surco,VIP
+336,Adela Echeverría Sales,35,Femenino,Pueblo Libre,Nuevo
+337,Yéssica Zorrilla Benavides,51,Femenino,San Miguel,Nuevo
+338,Paola Sánchez Andrés,68,Femenino,Jesús María,Nuevo
+339,Herminia Alcántara-Agullo,53,Masculino,San Miguel,Nuevo
+340,Felix Torres Soler,38,Masculino,Miraflores,Nuevo
+341,Jessica Barco Gárate,64,Masculino,Surco,Nuevo
+342,Dulce Amo Parejo,69,Femenino,Surco,Nuevo
+343,Eugenia Roselló Guijarro,43,Femenino,San Isidro,Nuevo
+344,Elpidio Castelló Ferrándiz,58,Masculino,Jesús María,Nuevo
+345,Eustaquio Donoso Blanco,32,Masculino,Jesús María,Frecuente
+346,Mercedes Gutierrez-Sanz,18,Femenino,Miraflores,Frecuente
+347,Maribel Baena Gargallo,43,Masculino,Surco,Nuevo
+348,Brunilda de Rovira,40,Femenino,Jesús María,VIP
+349,Susana Laguna Fabra,26,Masculino,Barranco,Frecuente
+350,Narciso Rincón Carbó,40,Femenino,Surco,Nuevo
+351,Agustín Gaya Tena,23,Masculino,Jesús María,Nuevo
+352,Otilia Armas Mur,49,Femenino,San Borja,Frecuente
+353,Pacífica Neira Sanmiguel,62,Femenino,Lince,Frecuente
+354,Olimpia Narváez Gordillo,48,Masculino,Pueblo Libre,Frecuente
+355,Hilda Emperatriz Losada Garcés,27,Femenino,Lince,Nuevo
+356,Carlos Roldán Ramis Trujillo,37,Femenino,La Molina,Frecuente
+357,Samu del Sala,48,Femenino,San Borja,Frecuente
+358,Carolina Blanca Aranda,53,Masculino,Lince,Frecuente
+359,Edmundo Salom Sainz,19,Masculino,San Borja,Nuevo
+360,Jafet Valero Nogueira,44,Femenino,Barranco,Nuevo
+361,Florentina del Peral,37,Masculino,San Miguel,Nuevo
+362,Francisca Viana Guzman,45,Femenino,San Borja,Nuevo
+363,Jose Carlos Gervasio Viñas Mariño,50,Femenino,San Miguel,Frecuente
+364,Leonardo Calderón Rubio,68,Masculino,San Borja,Frecuente
+365,Epifanio Cortina Antón,65,Masculino,Jesús María,Nuevo
+366,Serafina Mendoza Bautista,18,Masculino,Surco,Frecuente
+367,Arturo Guiomar Villalba Jove,27,Masculino,San Borja,Nuevo
+368,Renata Sanabria,65,Femenino,Barranco,Nuevo
+369,Azahara Florencia Belmonte Salcedo,36,Masculino,Lince,Frecuente
+370,Maura Nicolau Talavera,34,Femenino,San Borja,Frecuente
+371,Eulalia Quevedo Pelayo,61,Masculino,San Borja,Nuevo
+372,Ofelia del Robles,68,Masculino,Pueblo Libre,Frecuente
+373,Jordana de Montero,57,Masculino,Pueblo Libre,Frecuente
+374,Lisandro Gras Fortuny,70,Masculino,Barranco,Nuevo
+375,Heraclio Alvarado Sanmartín,58,Femenino,Miraflores,Nuevo
+376,Narciso de Reina,33,Masculino,Jesús María,Nuevo
+377,Nicanor Morante Alberto,59,Masculino,Barranco,Frecuente
+378,Ariadna Ariel Peláez Dalmau,24,Masculino,San Miguel,Nuevo
+379,Kike del Estrada,32,Femenino,Miraflores,Nuevo
+380,Vicente Río Leon,45,Femenino,San Isidro,Frecuente
+381,Jennifer Rosalía Manzano Vara,24,Femenino,Jesús María,Nuevo
+382,Armida de Pla,54,Femenino,Jesús María,Frecuente
+383,Álvaro Godoy Roldan,61,Femenino,Lince,Frecuente
+384,Jessica Cornejo Codina,65,Masculino,La Molina,VIP
+385,Anunciación Valencia-Neira,18,Masculino,San Miguel,Nuevo
+386,Anna Manso Prado,65,Masculino,Barranco,Nuevo
+387,Juan Bautista Ricart Gascón,22,Masculino,Miraflores,Nuevo
+388,Celso Trillo-Vila,28,Femenino,San Miguel,Nuevo
+389,Apolinar Vicens Mascaró,42,Femenino,Barranco,Frecuente
+390,Cristóbal Rosselló Roman,43,Femenino,Pueblo Libre,VIP
+391,Severiano Blázquez Moraleda,40,Femenino,Barranco,Nuevo
+392,Manu Montes Nebot,51,Femenino,San Isidro,VIP
+393,Samuel Reig Caro,39,Masculino,Barranco,Nuevo
+394,Dalila Azucena Esparza Zorrilla,33,Femenino,Lince,Frecuente
+395,Chuy Castellanos-Farré,55,Femenino,San Isidro,Nuevo
+396,Rosa María Céspedes Uría,32,Masculino,Miraflores,Nuevo
+397,Anastasia Borrell Vera,68,Masculino,San Borja,Nuevo
+398,Julieta de Miralles,22,Femenino,Jesús María,Nuevo
+399,Chus Ruiz,65,Femenino,San Borja,Frecuente
+400,María Malena Pastor Ocaña,27,Femenino,Lince,Nuevo
+401,Adolfo Linares,61,Masculino,Miraflores,Nuevo
+402,Melisa del Tejera,35,Masculino,Surco,Frecuente
+403,Jose Luis Wálter Ferrández Bauzà,48,Femenino,La Molina,Nuevo
+404,Susanita de Valenciano,68,Femenino,La Molina,Nuevo
+405,Erasmo Mármol-Polo,54,Masculino,San Isidro,Frecuente
+406,Mónica Campillo Carretero,60,Femenino,Surco,Nuevo
+407,Melchor Esparza Chaves,44,Masculino,La Molina,Nuevo
+408,Estrella Maldonado Tena,61,Masculino,Barranco,Nuevo
+409,José Mari Losada Cortés,34,Masculino,San Miguel,Nuevo
+410,Oriana Mancebo Molins,42,Femenino,San Isidro,Nuevo
+411,Celso Alfonso Escribano Solana,19,Masculino,La Molina,Frecuente
+412,Victor Beltrán,62,Masculino,Jesús María,Nuevo
+413,Ildefonso Bermudez Céspedes,21,Femenino,Miraflores,Nuevo
+414,Elena Catalá Villalonga,27,Femenino,San Borja,Nuevo
+415,Lorenza Castellanos Dalmau,52,Masculino,San Miguel,Nuevo
+416,Tecla de Español,59,Masculino,Pueblo Libre,Nuevo
+417,Guadalupe Amat Gisbert,45,Femenino,Jesús María,Nuevo
+418,Emiliana Carro Gomez,29,Masculino,Barranco,Nuevo
+419,Amparo Marco Mendoza,51,Masculino,Pueblo Libre,Nuevo
+420,Norberto Lastra Cañete,25,Femenino,La Molina,Nuevo
+421,Loreto Barrios Tudela,65,Femenino,Lince,Frecuente
+422,Glauco Iriarte Guzmán,26,Femenino,Barranco,Nuevo
+423,Heraclio Galván-Morán,62,Femenino,Jesús María,Frecuente
+424,Manola Jordá Ortega,23,Femenino,Barranco,VIP
+425,Ruben Ramón Ureña,18,Masculino,San Miguel,Frecuente
+426,Alexandra Tomás Sanmiguel,62,Masculino,San Miguel,Frecuente
+427,Teodosio Roldan Agullo,34,Masculino,La Molina,Nuevo
+428,Matías Gil,38,Femenino,Miraflores,Frecuente
+429,Cornelio Bueno Ribera,43,Masculino,Pueblo Libre,Nuevo
+430,Matías Geraldo Roca Menendez,43,Masculino,San Borja,VIP
+431,Estefanía Cantón,59,Masculino,Surco,Frecuente
+432,Jose Carlos Alba Corbacho,53,Masculino,Lince,Nuevo
+433,Asdrubal Rozas Revilla,34,Masculino,Jesús María,VIP
+434,Juan Pablo Grande Esteve,42,Femenino,Barranco,Nuevo
+435,Aurelio Prieto Saldaña,54,Femenino,San Borja,Nuevo
+436,Laura del Nicolás,29,Femenino,Lince,Nuevo
+437,Isidoro Múgica Villaverde,35,Femenino,San Miguel,Nuevo
+438,Ariel Rojas Baeza,45,Masculino,Surco,Frecuente
+439,Natividad Jordán Garay,39,Masculino,La Molina,Frecuente
+440,Tatiana Gibert Fábregas,44,Masculino,Miraflores,Frecuente
+441,Gabriela Sánchez Chico,23,Femenino,Miraflores,Nuevo
+442,Adoración Quintanilla Trillo,68,Femenino,San Miguel,Nuevo
+443,Hipólito Lasa,43,Femenino,Jesús María,Nuevo
+444,América Gallo Escolano,32,Masculino,San Miguel,VIP
+445,Victoriano Andrés España Blanca,51,Femenino,San Miguel,Nuevo
+446,Cirino Porfirio Hierro Amorós,46,Masculino,Barranco,Frecuente
+447,Manuela Maldonado,18,Masculino,Jesús María,Nuevo
+448,Celso Valenciano Mayol,48,Femenino,Miraflores,Frecuente
+449,Ignacio Rojas Juárez,70,Masculino,Barranco,Nuevo
+450,Noemí Maestre Vargas,58,Masculino,San Isidro,Frecuente
+451,Morena Tania Pablo Echeverría,39,Masculino,La Molina,Nuevo
+452,Nazaret Vazquez,19,Masculino,Jesús María,Nuevo
+453,Leonardo Falcón Ferrero,18,Masculino,San Isidro,VIP
+454,Heriberto Agudo Colom,57,Femenino,Lince,Nuevo
+455,Lorenza Roura,47,Masculino,San Borja,Nuevo
+456,Jessica Juliana Chacón Girona,30,Femenino,Barranco,Frecuente
+457,Jeremías Escalona Arroyo,23,Femenino,La Molina,Frecuente
+458,Martín Moya Adán,55,Femenino,Pueblo Libre,Nuevo
+459,Eutropio Valencia Riera,58,Femenino,Lince,Nuevo
+460,Mario Dimas Ochoa Osorio,67,Masculino,Barranco,Nuevo
+461,Paloma Ramón Ramírez,30,Femenino,San Miguel,Nuevo
+462,Bonifacio Aramburu Galvez,67,Masculino,Lince,Nuevo
+463,Renato Barceló-Rios,32,Masculino,Barranco,Nuevo
+464,Morena del Andrés,24,Masculino,Pueblo Libre,Nuevo
+465,Buenaventura de Villegas,19,Masculino,Miraflores,VIP
+466,Socorro Riba España,23,Femenino,Surco,VIP
+467,Joan Rovira,25,Femenino,Pueblo Libre,Nuevo
+468,Lara Zamora Uriarte,30,Femenino,Barranco,Nuevo
+469,Miguel Villanueva Navarro,39,Femenino,Surco,Nuevo
+470,Gabriel Romero Herrero,27,Masculino,Barranco,Frecuente
+471,Heraclio de Nevado,37,Masculino,Surco,VIP
+472,Emigdio Vallés Bermudez,36,Femenino,Pueblo Libre,Frecuente
+473,Charo Almagro,39,Femenino,Miraflores,Nuevo
+474,Omar Cardona Cañizares,28,Femenino,Pueblo Libre,Frecuente
+475,Nayara Barbero-Garmendia,64,Masculino,Lince,Nuevo
+476,Angélica Cuadrado Aragonés,39,Masculino,Miraflores,Frecuente
+477,Sebastian Salomón Román Ávila,38,Masculino,San Borja,Frecuente
+478,Rodolfo Ramírez Nieto,47,Femenino,San Borja,Nuevo
+479,Jessica Ester Iborra Parra,55,Femenino,San Miguel,VIP
+480,Leonardo Atilio Alcaraz Figueroa,39,Femenino,Jesús María,Frecuente
+481,Nuria Galan Arellano,55,Femenino,San Miguel,Frecuente
+482,Maricruz Paulina Llamas Acuña,32,Femenino,Jesús María,Frecuente
+483,Ciro Valbuena-Roldán,59,Masculino,Pueblo Libre,Nuevo
+484,Merche Ferrando Salvà,48,Femenino,Lince,Nuevo
+485,Lalo Barragán Castelló,20,Masculino,San Borja,Nuevo
+486,Casemiro Serra Báez,30,Femenino,San Isidro,Nuevo
+487,Tania Ortiz,67,Masculino,San Borja,VIP
+488,Lilia Seguí Arnau,19,Femenino,Miraflores,Frecuente
+489,Emiliana Vaquero Reguera,38,Masculino,Surco,Nuevo
+490,Andrés Escobar Cano,32,Masculino,Miraflores,Nuevo
+491,Lara Rocamora Jover,46,Masculino,Surco,Nuevo
+492,Danilo Fabregat Beltran,57,Masculino,Jesús María,Nuevo
+493,Borja Ayala-Navas,25,Masculino,San Isidro,Nuevo
+494,Juan Carlos Salgado Llorens,64,Masculino,Miraflores,Nuevo
+495,Nicanor Vilanova Blazquez,21,Femenino,Pueblo Libre,Nuevo
+496,María Fernanda Castejón-Mas,65,Femenino,Surco,Nuevo
+497,Virgilio Dueñas Gil,62,Femenino,Lince,Nuevo
+498,Jessica Solano Río,34,Femenino,San Borja,Frecuente
+499,Modesto Cardona,44,Masculino,Surco,Nuevo
+500,Susana Cabezas Puerta,42,Masculino,Miraflores,Frecuente
+501,Yésica Ana Belén Sola Lladó,33,Femenino,Lince,Nuevo
+502,Ainoa Segovia Padilla,18,Femenino,San Borja,Frecuente
+503,Fabiana Llorente Fábregas,54,Femenino,Barranco,Frecuente
+504,Anna Escalona-Moreno,47,Masculino,La Molina,Frecuente
+505,Fernanda del Barberá,68,Femenino,Miraflores,Frecuente
+506,Benita Vilalta Bonet,30,Masculino,Surco,Nuevo
+507,Dani Herrera Benet,43,Masculino,San Borja,Nuevo
+508,Antonio Buendía Mena,30,Masculino,Barranco,Frecuente
+509,Gilberto Mendizábal Tena,60,Femenino,San Isidro,Nuevo
+510,Diana Beltran Codina,31,Masculino,Miraflores,Nuevo
+511,Lupe Eliseo Santos Pallarès,68,Masculino,La Molina,Frecuente
+512,Custodio Guardia Cerro,45,Femenino,San Miguel,Frecuente
+513,Otilia de Flor,44,Femenino,Miraflores,Nuevo
+514,Belen Chico Montoya,46,Masculino,San Borja,VIP
+515,Graciana Vallés Aguado,56,Masculino,Miraflores,VIP
+516,Teodosio Severino Agustín Aroca,22,Femenino,Miraflores,Frecuente
+517,Fermín Águila Villalba,47,Masculino,Lince,Nuevo
+518,Julie Pulido Checa,26,Masculino,Jesús María,Nuevo
+519,Rita Bustos-Nicolás,62,Masculino,San Miguel,Frecuente
+520,Visitación Hervia Zamorano,59,Femenino,Pueblo Libre,VIP
+521,Custodio Vives Martín,24,Femenino,San Miguel,Nuevo
+522,Vicente Angelino Mata López,42,Femenino,Lince,Nuevo
+523,Eloy de Reig,19,Femenino,La Molina,VIP
+524,Camila Pizarro-Noriega,28,Masculino,Jesús María,Nuevo
+525,Basilio Gabriel Berenguer Cornejo,42,Femenino,Pueblo Libre,Nuevo
+526,Priscila Trujillo Madrigal,39,Masculino,Lince,Nuevo
+527,Selena Jódar-Gimeno,59,Femenino,Jesús María,Frecuente
+528,Jose Luis Morales Bermúdez,38,Masculino,Lince,Nuevo
+529,Mirta Loreto Caro Isern,37,Femenino,Lince,Nuevo
+530,Manuelita Carla Nieto Canet,62,Masculino,Jesús María,Nuevo
+531,Chus Martín Segura,27,Masculino,San Borja,Frecuente
+532,Ainoa Rosado,35,Femenino,Barranco,Nuevo
+533,Tomás Beltran Macias,60,Masculino,San Isidro,Nuevo
+534,María Ángeles Cuervo Baeza,41,Masculino,La Molina,Frecuente
+535,Rebeca Rosado Suárez,39,Femenino,San Borja,Nuevo
+536,Rodolfo Pla,56,Masculino,Miraflores,VIP
+537,Dimas Escudero Villalba,28,Femenino,Lince,Nuevo
+538,Fernando del Mendez,29,Masculino,Miraflores,Nuevo
+539,Lola Navas Alberdi,21,Masculino,La Molina,VIP
+540,José María Muñoz-Planas,59,Femenino,Pueblo Libre,Frecuente
+541,Marc Coca,39,Masculino,La Molina,Frecuente
+542,Albino Mendoza Sanchez,34,Masculino,La Molina,Frecuente
+543,Custodia Mancebo Alarcón,31,Femenino,Surco,Frecuente
+544,Ana Azorin Guillén,65,Femenino,San Isidro,Nuevo
+545,Heliodoro Aragonés Cañas,30,Femenino,Barranco,Nuevo
+546,Jafet Echevarría Valls,43,Masculino,Barranco,VIP
+547,Irene Gutiérrez Amigó,23,Femenino,Barranco,Frecuente
+548,Gastón Tapia Torrecilla,62,Femenino,Barranco,Frecuente
+549,Bernabé Exposito-Atienza,19,Femenino,San Isidro,Nuevo
+550,Isabela Atienza Álamo,52,Masculino,Jesús María,Nuevo
+551,Cintia de Burgos,30,Femenino,Pueblo Libre,Frecuente
+552,Che Cervantes Pi,23,Femenino,Surco,Nuevo
+553,Amada Gómez Cañellas,58,Femenino,San Miguel,Nuevo
+554,Albino Fuente Gutiérrez,64,Femenino,Lince,Frecuente
+555,Pepito Cuéllar Bustos,25,Femenino,Barranco,Nuevo
+556,África Ribas-Blasco,45,Masculino,Pueblo Libre,VIP
+557,Lorena Vilar Amorós,70,Femenino,San Isidro,Nuevo
+558,Lilia Feijoo Guitart,38,Masculino,Pueblo Libre,Nuevo
+559,Marcial Sevilla Castro,46,Femenino,Jesús María,Frecuente
+560,Fabiana de Heras,23,Masculino,San Borja,Nuevo
+561,Américo Salvador,31,Femenino,San Borja,Nuevo
+562,Candelas Alemán,55,Masculino,Pueblo Libre,VIP
+563,Bautista Villalonga Verdugo,55,Femenino,Lince,Frecuente
+564,Rosa María de Cabañas,44,Masculino,Surco,Frecuente
+565,Patricia Córdoba Cámara,44,Femenino,Miraflores,Nuevo
+566,Inmaculada del Pozo,30,Masculino,San Miguel,Nuevo
+567,Cristóbal Estévez Murcia,59,Masculino,San Borja,Nuevo
+568,Trinidad Alvarado-Navarrete,35,Masculino,La Molina,Nuevo
+569,Asdrubal Aranda-Terrón,48,Masculino,San Miguel,Nuevo
+570,Cristóbal Gerardo Peñalver Rodriguez,41,Femenino,San Isidro,Nuevo
+571,Paz del Sanabria,31,Masculino,La Molina,Nuevo
+572,Marisa Bermudez Mayol,61,Masculino,Surco,Frecuente
+573,Victoriano Gelabert Peñalver,18,Femenino,Surco,Nuevo
+574,Ruperto Riba Moles,58,Femenino,Jesús María,Nuevo
+575,Azeneth Barral-Leal,28,Femenino,Barranco,Nuevo
+576,Daniel Yáñez Martínez,64,Masculino,San Miguel,Nuevo
+577,Rafael Francisco,22,Femenino,Jesús María,Nuevo
+578,Dafne Serna Jódar,68,Masculino,Pueblo Libre,Nuevo
+579,Trini Morata-León,22,Femenino,La Molina,VIP
+580,Macario Vilaplana Lasa,18,Femenino,Jesús María,Frecuente
+581,Gloria Beltrán Abellán,67,Masculino,San Isidro,Frecuente
+582,Belen de Haro,31,Masculino,Pueblo Libre,Frecuente
+583,Ana Sofía de Miguel,62,Masculino,San Miguel,Frecuente
+584,Mohamed Quintana Sebastián,33,Femenino,San Borja,Nuevo
+585,Clemente Miranda Berenguer,41,Femenino,San Miguel,Frecuente
+586,Curro Font Costa,62,Masculino,San Borja,Nuevo
+587,Inocencio Criado,63,Femenino,Surco,Nuevo
+588,Daniel Rodrigo Ortega,34,Masculino,Jesús María,Frecuente
+589,Zaida Raya Ros,49,Femenino,La Molina,Nuevo
+590,Domingo Salinas-Bernat,61,Femenino,San Miguel,Nuevo
+591,Lupe Fernández-Guzmán,22,Masculino,Pueblo Libre,VIP
+592,Encarnación Álamo Chamorro,30,Femenino,Pueblo Libre,Nuevo
+593,Gerardo Castelló Silva,49,Femenino,Surco,Frecuente
+594,Armando Raimundo Sarabia Estevez,37,Femenino,Lince,Nuevo
+595,Carolina Cifuentes Baquero,28,Masculino,Miraflores,Nuevo
+596,Angelina Arroyo Cobos,22,Masculino,Jesús María,Nuevo
+597,Aura Becerra Crespi,43,Femenino,San Miguel,VIP
+598,Sandra Frías Barón,38,Femenino,San Miguel,Frecuente
+599,Marisela Bartolomé,51,Masculino,Pueblo Libre,Nuevo
+600,Julio Romeu,48,Masculino,Barranco,Frecuente
+601,Verónica Ferrándiz Pareja,25,Masculino,La Molina,Frecuente
+602,Benita Guiomar Carbajo Guerrero,35,Femenino,La Molina,Frecuente
+603,Fabiana Valenciano Palacio,62,Femenino,La Molina,Nuevo
+604,Mireia Núñez Cal,23,Masculino,Jesús María,Nuevo
+605,Nereida Lucila Alcolea Gascón,48,Femenino,San Isidro,Frecuente
+606,Rafaela Jover Puga,22,Femenino,San Isidro,Frecuente
+607,Otilia Isaura Garrido Tur,33,Masculino,San Miguel,Nuevo
+608,Germán Fuertes-Guerrero,49,Masculino,Miraflores,Frecuente
+609,Úrsula Solera Pastor,21,Masculino,San Borja,Nuevo
+610,Eloy Torrent Cuervo,31,Masculino,Jesús María,Frecuente
+611,Benita Rios Alfonso,28,Masculino,Surco,Nuevo
+612,José Rocamora Acedo,38,Femenino,Pueblo Libre,Nuevo
+613,Serafina del Lasa,64,Femenino,San Miguel,Nuevo
+614,Mario del Salamanca,57,Masculino,Barranco,Nuevo
+615,Pánfilo Varela-Tapia,21,Masculino,San Isidro,Nuevo
+616,Adelaida Nicolás,61,Masculino,Miraflores,Frecuente
+617,Nidia Eva María Sanmiguel Piña,51,Masculino,San Miguel,Nuevo
+618,José Vendrell-Torrents,35,Masculino,Jesús María,Nuevo
+619,Teodosio Pintor,57,Masculino,San Borja,Frecuente
+620,Eutimio Donaire-Gonzalo,36,Masculino,Barranco,Nuevo
+621,Pascuala Domínguez Acero,42,Masculino,Pueblo Libre,Frecuente
+622,Juan Manuel Rueda Avilés,18,Femenino,San Miguel,Frecuente
+623,Teófila Salazar Piña,46,Masculino,Surco,Frecuente
+624,Fidela Bernad Barrio,34,Femenino,La Molina,Nuevo
+625,Áurea Miralles,24,Masculino,San Miguel,Nuevo
+626,Clarisa Rico Arnaiz,28,Masculino,La Molina,Frecuente
+627,Patricio Salamanca Gimenez,25,Masculino,Barranco,Frecuente
+628,Íñigo Gil Pulido Colom,58,Masculino,Lince,Frecuente
+629,Herminio del Olmo,51,Masculino,Lince,Frecuente
+630,Judith Alegria Viana,23,Masculino,Surco,Nuevo
+631,Félix Sancho Tejedor,59,Masculino,Surco,Nuevo
+632,Noelia Cervantes,27,Femenino,Pueblo Libre,Nuevo
+633,Albina Ochoa Valle,25,Masculino,San Isidro,Frecuente
+634,Ricardo Laguna Alegre,59,Masculino,Surco,Nuevo
+635,Anunciación Lumbreras Díaz,55,Masculino,San Isidro,Frecuente
+636,Sosimo Ripoll-Cazorla,51,Masculino,San Borja,Nuevo
+637,Inmaculada Luque,23,Masculino,San Miguel,Nuevo
+638,Reyes Puerta Benet,47,Femenino,Miraflores,Frecuente
+639,María Jesús Salcedo Bilbao,56,Femenino,Jesús María,Frecuente
+640,Martirio Sanz Viana,33,Femenino,San Isidro,VIP
+641,Inés Rius Bautista,58,Masculino,San Isidro,Nuevo
+642,Iker Roca Pol,42,Masculino,Surco,Nuevo
+643,Chus Gordillo Valenciano,56,Femenino,San Borja,VIP
+644,Maximino Calvet-Llanos,33,Femenino,Lince,Frecuente
+645,Miguel Toro,39,Femenino,San Miguel,Nuevo
+646,Felisa Riera Ripoll,22,Femenino,San Miguel,Frecuente
+647,Maxi Bueno Azcona,57,Masculino,Lince,VIP
+648,Lisandro Patiño,62,Femenino,Pueblo Libre,Frecuente
+649,Andrés Felipe Diez Rocamora,66,Femenino,Barranco,Nuevo
+650,Nicolasa de Bonet,30,Femenino,Pueblo Libre,Frecuente
+651,Jaime Royo Arnau,53,Femenino,San Miguel,Frecuente
+652,Florina Vázquez-Pintor,42,Femenino,Lince,Nuevo
+653,Pancho del Puig,56,Masculino,Surco,Nuevo
+654,Aristides del Álvaro,64,Femenino,Barranco,Nuevo
+655,Rosalía del Arce,20,Femenino,La Molina,Frecuente
+656,Josefa de Alemán,53,Femenino,Pueblo Libre,Frecuente
+657,Paulina Serrano Díaz,60,Masculino,Pueblo Libre,Nuevo
+658,Octavia Elena Marco Pol,67,Femenino,San Isidro,Frecuente
+659,Vicente Lledó,29,Masculino,San Borja,Frecuente
+660,Cruz de Villalobos,41,Femenino,San Isidro,VIP
+661,Borja Abella Padilla,19,Masculino,Surco,Frecuente
+662,Segismundo de Ángel,34,Femenino,Lince,Nuevo
+663,Ámbar Oliva Melero,45,Masculino,Lince,Nuevo
+664,Maximiliano Ferrández Grande,36,Femenino,Jesús María,Nuevo
+665,Anita Mireia Quevedo Alba,32,Masculino,Surco,Frecuente
+666,Marina Goicoechea,35,Masculino,Lince,Nuevo
+667,Dionisia Diez Serna,27,Masculino,Jesús María,VIP
+668,Domingo Tejedor Vega,36,Femenino,Barranco,Frecuente
+669,Perla Rivas Adán,32,Femenino,Lince,Frecuente
+670,Marcelo Rubén Feijoo Codina,45,Femenino,Lince,Nuevo
+671,Dora Aguilar-Duarte,37,Femenino,Jesús María,Nuevo
+672,Amado Echevarría Moll,59,Masculino,Barranco,Nuevo
+673,Narciso Torrents,20,Masculino,La Molina,Nuevo
+674,Cayetano Carreras Bonet,34,Femenino,Barranco,Nuevo
+675,Francisco Pujol-Pascual,48,Femenino,San Borja,Frecuente
+676,Jennifer Ferrández,18,Femenino,San Isidro,Frecuente
+677,Victoriano Morell Arellano,67,Femenino,La Molina,VIP
+678,Micaela Iglesia Larrañaga,51,Femenino,Miraflores,Frecuente
+679,Amada Soto Orozco,64,Femenino,Barranco,Nuevo
+680,Casemiro Segarra-Montserrat,56,Masculino,San Isidro,Nuevo
+681,Anastasio Barros Miralles,29,Masculino,San Miguel,VIP
+682,Ruperta María Manuela Sáenz Valderrama,56,Femenino,Lince,VIP
+683,Bibiana Conde Múñiz,30,Femenino,Jesús María,Nuevo
+684,Leandra Fabregat-Nadal,69,Femenino,Barranco,Frecuente
+685,Quique Jover Vaquero,64,Femenino,Surco,Nuevo
+686,Osvaldo Marti-Bautista,27,Femenino,San Miguel,Nuevo
+687,Ciro Melero Álvarez,51,Masculino,Jesús María,Nuevo
+688,Luis Ángel Rafael Montes Téllez,43,Femenino,San Isidro,Frecuente
+689,Hernán Roldán Vilaplana,59,Masculino,Surco,Nuevo
+690,María Jesús Chacón Rivas,46,Femenino,Surco,VIP
+691,Haroldo Caballero Morán,43,Masculino,San Borja,Nuevo
+692,Bernarda Quintanilla Bastida,43,Femenino,Jesús María,Nuevo
+693,Carina Alemán Lamas,36,Masculino,San Isidro,Frecuente
+694,Kike Borrego Tamarit,44,Femenino,Jesús María,VIP
+695,María Dolores Valverde Rodrigo,22,Masculino,Miraflores,Frecuente
+696,Severiano Víctor Manzanares Saura,66,Femenino,Jesús María,Nuevo
+697,Yaiza Chico-Martí,20,Femenino,La Molina,Nuevo
+698,Perlita Salas-Sosa,56,Femenino,Jesús María,Frecuente
+699,Maricruz Becerra Gutierrez,19,Femenino,Surco,Nuevo
+700,Enrique Ferrero Arce,66,Femenino,Surco,Frecuente
+701,Esteban Mora Bello,55,Femenino,Surco,Nuevo
+702,Luisa Bru,38,Masculino,Surco,Frecuente
+703,Gil Jiménez,68,Masculino,Pueblo Libre,Nuevo
+704,Paulino de Carbajo,61,Masculino,San Borja,Frecuente
+705,Melisa Viña,25,Masculino,Barranco,Frecuente
+706,Eduardo Fabra Escalona,58,Masculino,Miraflores,VIP
+707,Dolores Asensio Ródenas,67,Masculino,San Miguel,Nuevo
+708,María Del Carmen Guardia Luna,38,Masculino,Jesús María,Frecuente
+709,Óscar Gámez Poza,47,Femenino,Pueblo Libre,Nuevo
+710,Diego Planas Pedrosa,62,Femenino,Pueblo Libre,Nuevo
+711,Remigio Clavero Barreda,66,Masculino,Jesús María,Frecuente
+712,Flavia Tur Torrents,31,Femenino,La Molina,Frecuente
+713,Natanael Balaguer,49,Masculino,La Molina,Frecuente
+714,Ariel Sanmartín-Planas,37,Femenino,Barranco,Frecuente
+715,Saturnino Gilabert Zaragoza,54,Masculino,Barranco,Frecuente
+716,Azeneth Lobato Rocamora,58,Femenino,San Borja,Frecuente
+717,Nicanor Egea,19,Masculino,Lince,Nuevo
+718,Alba Cabañas,20,Masculino,La Molina,Nuevo
+719,Jose Francisco de Blanes,62,Femenino,Jesús María,Frecuente
+720,Gabino Reyes Revilla,69,Femenino,La Molina,Frecuente
+721,Bienvenida Ramón Gisbert,65,Femenino,San Borja,Nuevo
+722,Eric del Bernat,26,Masculino,La Molina,Nuevo
+723,Débora Calzada-Portero,61,Femenino,Jesús María,Frecuente
+724,Bernardo del Fonseca,18,Femenino,Barranco,Nuevo
+725,Silvestre Peña Gonzalez,38,Masculino,Miraflores,Nuevo
+726,Noemí Pelayo Villalba,40,Masculino,Lince,Nuevo
+727,Gastón Abellán Ballesteros,28,Femenino,Lince,Nuevo
+728,Rosario Galan,68,Masculino,Surco,Nuevo
+729,Estela García,42,Femenino,La Molina,Frecuente
+730,Demetrio Otero Peláez,51,Masculino,San Borja,Nuevo
+731,Venceslás Morell Barral,35,Masculino,Miraflores,Nuevo
+732,Iris Alberola León,30,Masculino,San Borja,Nuevo
+733,Amancio Carretero Aguilera,61,Masculino,La Molina,Nuevo
+734,Loreto de Quirós,26,Femenino,Lince,Nuevo
+735,Jose Ignacio Lucena Dueñas,31,Masculino,Miraflores,Nuevo
+736,Olga Estevez Cepeda,37,Femenino,Lince,Nuevo
+737,Sebastián Badía-Perea,58,Masculino,Jesús María,Nuevo
+738,Domitila Becerra Martínez,18,Masculino,Miraflores,Nuevo
+739,Jorge Casares Catalá,23,Femenino,Surco,VIP
+740,Dorotea Rosaura Bayón Rosales,48,Masculino,Surco,Nuevo
+741,Evangelina Carnero Montesinos,58,Femenino,San Borja,Frecuente
+742,María Carmen Rosales Perez,68,Femenino,Miraflores,Nuevo
+743,Visitación Ferreras Hidalgo,51,Femenino,La Molina,Nuevo
+744,Josué Pina Casares,54,Masculino,Miraflores,Frecuente
+745,Pascual Luz Seguí,45,Masculino,San Isidro,Nuevo
+746,Azucena Cabrera Casanova,32,Femenino,Surco,Nuevo
+747,Gerardo Cámara Feliu,58,Masculino,San Isidro,VIP
+748,Manola Pelayo-Galindo,21,Femenino,San Isidro,Frecuente
+749,Asdrubal Vicente Sanjuan,42,Femenino,Surco,Frecuente
+750,María Marquez,31,Masculino,San Miguel,VIP
+751,Rosendo Batalla Nebot,41,Masculino,La Molina,Frecuente
+752,Maxi Carpio-Vidal,31,Masculino,Jesús María,Frecuente
+753,Araceli Barberá-Quirós,62,Masculino,San Borja,Frecuente
+754,Nacho Benavente Maestre,19,Masculino,Surco,Nuevo
+755,Manolo Merino,39,Masculino,La Molina,Nuevo
+756,Darío Rivas Crespo,28,Femenino,Lince,Frecuente
+757,Calisto Frías Escobar,26,Masculino,Lince,Nuevo
+758,Alonso Millán-Batlle,70,Masculino,Lince,Frecuente
+759,Albino Guzmán Gisbert,37,Femenino,La Molina,Frecuente
+760,Celestina Bonilla Narváez,40,Femenino,La Molina,Frecuente
+761,Calixto Bilbao,44,Femenino,Miraflores,Nuevo
+762,Manuelita Duque-Colom,35,Masculino,Surco,Nuevo
+763,Maristela Valenciano-Blanco,31,Femenino,San Miguel,Frecuente
+764,Ciriaco Carbajo Alberto,66,Masculino,Pueblo Libre,VIP
+765,Jenny del Manzanares,62,Masculino,San Isidro,Nuevo
+766,Paloma Cid Nogueira,54,Femenino,Pueblo Libre,Nuevo
+767,Joel Borrego,69,Femenino,Lince,Frecuente
+768,Eleuterio del Rey,34,Masculino,Barranco,Nuevo
+769,Pepito Pavón-Ruiz,55,Masculino,Surco,Nuevo
+770,Rogelio Ferrero Olivares,34,Femenino,San Miguel,Nuevo
+771,Amada Berta Priego Seguí,46,Femenino,Jesús María,Nuevo
+772,Javier Mora Cruz,28,Femenino,San Miguel,Frecuente
+773,Camilo Molina Macias,25,Femenino,San Borja,Frecuente
+774,Constanza Campo Río,48,Femenino,San Isidro,Nuevo
+775,María Jesús Tena Cuevas,39,Femenino,San Borja,Frecuente
+776,Severo Lledó Rueda,36,Femenino,Lince,Frecuente
+777,Amílcar Pastor Cantero Sacristán,54,Masculino,Surco,Frecuente
+778,Gabino Luque-Vera,47,Femenino,Surco,Nuevo
+779,Asdrubal Vives-Romero,53,Femenino,Lince,VIP
+780,Alejandra Rivero Valle,53,Femenino,La Molina,Frecuente
+781,Heliodoro Feijoo Barrio,54,Masculino,La Molina,Nuevo
+782,Vidal Gras Giménez,33,Masculino,La Molina,Nuevo
+783,Manu Carranza-Leiva,29,Masculino,La Molina,Frecuente
+784,Valerio Cadenas Roman,24,Femenino,Surco,Nuevo
+785,Felix Mendizábal Villar,70,Masculino,La Molina,Frecuente
+786,Cipriano Riera Agudo,57,Masculino,San Miguel,Nuevo
+787,Cosme Adolfo Landa Vives,54,Masculino,Jesús María,Frecuente
+788,Amancio Clemente Tomás,58,Masculino,Lince,Nuevo
+789,Carla del Pinto,40,Masculino,Barranco,VIP
+790,Violeta Pagès Arjona,50,Masculino,Lince,Nuevo
+791,Albert Ferrando Casanova,61,Femenino,San Isidro,Frecuente
+792,Florentino del Heredia,18,Masculino,Surco,Frecuente
+793,Clotilde Ayuso Sedano,58,Masculino,San Miguel,Frecuente
+794,Elena Gras,44,Femenino,Barranco,Nuevo
+795,Hipólito Angelino Montoya Carvajal,18,Femenino,La Molina,Nuevo
+796,Apolinar Morcillo-Ruano,47,Masculino,La Molina,VIP
+797,Valeria del Cerdán,36,Femenino,San Borja,Nuevo
+798,Wilfredo Macias-Molins,24,Masculino,San Miguel,Nuevo
+799,Marta Diez Domínguez,21,Femenino,San Borja,Nuevo
+800,Mamen Avilés Grau,68,Masculino,Lince,Frecuente
+801,César Checa Rovira,67,Femenino,Pueblo Libre,Nuevo
+802,Claudia Carretero-Lasa,63,Masculino,San Isidro,Frecuente
+803,Heriberto Aramburu Escrivá,18,Masculino,Surco,Nuevo
+804,Albert Castejón Herrera,47,Masculino,San Miguel,Nuevo
+805,Reinaldo Tena,63,Femenino,San Borja,Nuevo
+806,Jenaro Martorell Sureda,49,Femenino,Jesús María,VIP
+807,Manuelita Rovira-Moles,36,Masculino,San Borja,Nuevo
+808,Nilo Llanos Barba,37,Masculino,Miraflores,Nuevo
+809,Marciano Corominas Elorza,59,Masculino,Surco,Nuevo
+810,Íñigo Aramburu,24,Masculino,San Miguel,Nuevo
+811,Urbano Collado-Cordero,35,Masculino,Jesús María,Nuevo
+812,Tadeo Porta Valencia,47,Masculino,Pueblo Libre,Frecuente
+813,Rogelio Antúnez Aroca,23,Femenino,Jesús María,Frecuente
+814,Emigdio Sureda León,64,Femenino,Pueblo Libre,Nuevo
+815,Roldán Adán Bejarano,53,Masculino,San Miguel,Nuevo
+816,Gracia Vera,41,Masculino,Pueblo Libre,Nuevo
+817,Olalla Bru,34,Femenino,Lince,Nuevo
+818,Pelayo Rosario Catalán Vazquez,30,Masculino,Pueblo Libre,Frecuente
+819,Rómulo del Leon,33,Femenino,San Miguel,Frecuente
+820,Rodolfo Silvestre Pol Anguita,56,Femenino,Jesús María,Nuevo
+821,Jerónimo de Hidalgo,26,Masculino,San Miguel,Nuevo
+822,Yolanda Balaguer Bello,53,Masculino,Pueblo Libre,Nuevo
+823,Severino Rodríguez Ponce,38,Masculino,Miraflores,Nuevo
+824,Florencio Hernando Juliá Madrid,26,Masculino,Surco,Nuevo
+825,Lucio Valls Cuevas,21,Femenino,Surco,Nuevo
+826,Estrella Naranjo Sanmartín,39,Masculino,La Molina,VIP
+827,Olegario Gárate-Blazquez,47,Masculino,San Isidro,Nuevo
+828,Benigno Arce Muro,44,Masculino,Pueblo Libre,Frecuente
+829,Eloy de Huguet,46,Femenino,Miraflores,Nuevo
+830,Samanta Salom Monreal,45,Femenino,Pueblo Libre,Nuevo
+831,Cebrián de Pozo,66,Femenino,San Miguel,Frecuente
+832,Ruben Chico Báez,63,Masculino,San Isidro,Nuevo
+833,Visitación Lumbreras Beltrán,37,Masculino,San Isidro,Frecuente
+834,Pío Tamarit Torrent,42,Femenino,Barranco,VIP
+835,Arsenio Carvajal,31,Masculino,La Molina,Nuevo
+836,Joaquín Raimundo Casals Batalla,34,Masculino,La Molina,Nuevo
+837,Anselma del Olivera,69,Femenino,San Miguel,Nuevo
+838,Aroa Fabiana Marco Sotelo,18,Femenino,La Molina,VIP
+839,Julián Ferrán Llano,18,Femenino,San Borja,Frecuente
+840,Ciríaco Luna Arellano,38,Femenino,Pueblo Libre,Nuevo
+841,Beatriz Santiago Bustamante,43,Femenino,San Isidro,Frecuente
+842,Jose Ignacio Ríos Martorell,62,Femenino,San Isidro,Nuevo
+843,Modesto Carbonell Lledó,40,Masculino,Jesús María,VIP
+844,Calisto Guerra-Lara,49,Femenino,Barranco,VIP
+845,Benita Alcántara Cabo,51,Femenino,Lince,Frecuente
+846,Dimas Villalonga Nogués,50,Masculino,Jesús María,Nuevo
+847,Faustino Juliá,67,Femenino,San Miguel,Nuevo
+848,Lázaro Tomas Múñiz,22,Femenino,Lince,Nuevo
+849,Lucila Doménech Verdugo,42,Femenino,Miraflores,VIP
+850,Isabela Aranda Yáñez,60,Masculino,Surco,Nuevo
+851,Reyes Torres Vara,56,Femenino,Miraflores,Nuevo
+852,Abraham Torrents Rosell,36,Femenino,Jesús María,Frecuente
+853,Fabricio Pagès Adán,45,Femenino,Pueblo Libre,Nuevo
+854,Ovidio Agustí Pinilla,52,Masculino,San Borja,VIP
+855,Zoraida Rincón Puente,67,Masculino,Surco,Nuevo
+856,Miguel Ángel Flavio Bou Flor,52,Masculino,Surco,Nuevo
+857,Piedad Murillo Maestre,61,Masculino,Surco,Nuevo
+858,Marco Cal-Castells,34,Femenino,Barranco,Frecuente
+859,Teófilo Suárez Goicoechea,47,Femenino,San Borja,Nuevo
+860,Imelda Llobet,35,Masculino,San Borja,VIP
+861,Joaquín Acevedo-Sevilla,54,Masculino,San Isidro,Nuevo
+862,Eli Grande Martorell,56,Femenino,San Miguel,Nuevo
+863,Octavia Paredes Donaire,18,Masculino,Lince,Frecuente
+864,Adora Roldán Estevez,57,Femenino,San Isidro,Nuevo
+865,Nico Sebastián Bilbao,22,Masculino,Pueblo Libre,Nuevo
+866,Ezequiel Almagro,50,Masculino,San Borja,Frecuente
+867,César Escribano,39,Femenino,San Borja,Frecuente
+868,Marciano Blanch Artigas,40,Femenino,San Borja,Nuevo
+869,Remedios Benavente Torrent,22,Masculino,Miraflores,Nuevo
+870,Celso Tamarit Pinedo,23,Masculino,San Isidro,Frecuente
+871,Jose Angel Losada,27,Masculino,Barranco,Nuevo
+872,Natividad Toledo-Gras,55,Femenino,San Isidro,Nuevo
+873,Casandra de León,28,Femenino,San Isidro,Frecuente
+874,Gabriel Duarte Albero,29,Masculino,San Borja,VIP
+875,Berta Vera Corominas,51,Masculino,Lince,Nuevo
+876,Quirino Cardona Uría,51,Masculino,Jesús María,Nuevo
+877,Eusebio Piñeiro-Canals,27,Masculino,Barranco,Frecuente
+878,Miguel Pombo,70,Masculino,Surco,Nuevo
+879,Duilio Lara Carnero,60,Femenino,Miraflores,Nuevo
+880,José Luis Laguna Priego,46,Masculino,Miraflores,Nuevo
+881,Aníbal Cid Zamora,49,Femenino,San Borja,Nuevo
+882,Marcial Iván Luz Mosquera,23,Femenino,Miraflores,Nuevo
+883,Santiago Peláez Busquets,64,Masculino,La Molina,Frecuente
+884,Isidro Samper Serrano,65,Femenino,Jesús María,Frecuente
+885,Fermín Serrano Ramis,18,Femenino,San Borja,Nuevo
+886,María Pilar Lobato Llanos,43,Masculino,San Borja,Frecuente
+887,Severino Fuentes Delgado,18,Femenino,Miraflores,Frecuente
+888,Leire Vives Jódar,18,Femenino,Jesús María,Nuevo
+889,Eligia Sobrino Ariza,26,Masculino,San Isidro,Frecuente
+890,Encarnacion Pozuelo Monreal,52,Masculino,Barranco,Nuevo
+891,Chuy Alcaraz Aroca,27,Masculino,Miraflores,Frecuente
+892,Gabino Puig Badía,38,Masculino,Barranco,Frecuente
+893,Luisa Ribera Almansa,27,Femenino,Miraflores,Nuevo
+894,Arcelia Requena Robledo,67,Femenino,Barranco,Nuevo
+895,Ágata Nogueira Prieto,20,Masculino,Miraflores,VIP
+896,Daniela Marisol Barbero Paniagua,63,Masculino,La Molina,Nuevo
+897,Saturnina del Arévalo,35,Masculino,La Molina,Nuevo
+898,Pascual Cañellas Sáenz,65,Femenino,Pueblo Libre,Nuevo
+899,Saturnino Diego,62,Masculino,Lince,Nuevo
+900,Ciro Casanovas Carbajo,20,Masculino,La Molina,Nuevo
+901,Leocadia Valenciano Maestre,57,Masculino,Miraflores,Nuevo
+902,Manu Bernal,63,Masculino,Lince,Frecuente
+903,Lilia Diez Marin,57,Femenino,Miraflores,Nuevo
+904,Íngrid Gomis Boada,57,Femenino,Jesús María,Nuevo
+905,Eric Corral,22,Femenino,Pueblo Libre,VIP
+906,Julián Bustamante Exposito,46,Masculino,Jesús María,Frecuente
+907,Eloísa Quiroga-Montes,37,Femenino,Surco,Frecuente
+908,Nacio Clemente Díaz,61,Masculino,La Molina,Nuevo
+909,Beatriz Bilbao Quintanilla,51,Masculino,Miraflores,Nuevo
+910,Corona Vallés Merino,30,Femenino,Pueblo Libre,Nuevo
+911,Juanito Celestino Casals Palomo,38,Femenino,Lince,VIP
+912,Manolo Seco Dalmau,69,Femenino,Surco,Frecuente
+913,Jerónimo Valle-Tovar,62,Masculino,Barranco,Nuevo
+914,Manu Nicolás Valbuena,31,Femenino,Pueblo Libre,Nuevo
+915,Pío de Luján,64,Femenino,Miraflores,Nuevo
+916,Dorita Diaz,69,Masculino,Miraflores,Nuevo
+917,Camilo Catalán Querol,29,Masculino,Barranco,Frecuente
+918,Marcos Ezequiel Alcaraz Valentín,39,Femenino,Barranco,Frecuente
+919,Ágata Moreno Jaén,24,Masculino,Lince,Frecuente
+920,Rocío Almagro,27,Masculino,Miraflores,Nuevo
+921,Camila Boix Urrutia,64,Masculino,San Miguel,Frecuente
+922,Severino Abad Terrón,50,Masculino,La Molina,Frecuente
+923,Ani Barceló Pombo,19,Masculino,San Miguel,Nuevo
+924,Azeneth Martí,55,Femenino,San Isidro,Nuevo
+925,Celestino Villaverde Múñiz,40,Masculino,Surco,Nuevo
+926,Roldán del Vilanova,44,Masculino,Miraflores,Frecuente
+927,Damián Roig-Cabello,34,Masculino,San Miguel,Nuevo
+928,Candela Valverde-Macías,24,Femenino,Pueblo Libre,Nuevo
+929,Benjamín del Samper,20,Masculino,Lince,Nuevo
+930,Nicolasa de Sala,45,Masculino,Jesús María,Nuevo
+931,Pepita Esmeralda Roda Ferrera,24,Masculino,Lince,Nuevo
+932,Bienvenida Rivera Pareja,70,Femenino,La Molina,Nuevo
+933,Camila Donaire,28,Masculino,La Molina,Nuevo
+934,Victorino Ramos Luján,54,Femenino,Jesús María,VIP
+935,Visitación Zurita Escamilla,66,Femenino,San Isidro,Nuevo
+936,Águeda de Taboada,52,Masculino,Barranco,Nuevo
+937,Íngrid Lilia Cabañas Cepeda,53,Masculino,Barranco,Frecuente
+938,Elpidio del Benavides,21,Femenino,Surco,Frecuente
+939,Bonifacio del Benavent,26,Masculino,San Isidro,Nuevo
+940,Candelario Criado Hervia,70,Masculino,Pueblo Libre,Nuevo
+941,Crescencia del Serrano,40,Masculino,San Isidro,Nuevo
+942,Manu Liliana Antón Piñeiro,39,Masculino,Surco,Frecuente
+943,Jafet Sabas Flor Carlos,36,Femenino,Surco,Frecuente
+944,Mateo Mas,22,Masculino,Lince,Nuevo
+945,Amancio Monreal-Montero,32,Femenino,San Isidro,Nuevo
+946,Sancho Graciano Laguna Rosales,25,Masculino,Pueblo Libre,Frecuente
+947,Ignacia Fernandez Sala,60,Masculino,Miraflores,Frecuente
+948,Fito Casanovas Velázquez,70,Femenino,San Miguel,Nuevo
+949,Nicanor del Prat,47,Masculino,San Isidro,VIP
+950,Sonia Castañeda Aragonés,21,Masculino,La Molina,Nuevo
+951,Leire Taboada,53,Femenino,La Molina,VIP
+952,Malena Riba-Aguiló,57,Masculino,Surco,Nuevo
+953,Graciana Patiño Ortega,60,Masculino,Jesús María,Frecuente
+954,Lupe Toledo,38,Femenino,Barranco,VIP
+955,Amor Collado-Perales,20,Femenino,San Borja,Frecuente
+956,Paloma Cabanillas Gomez,66,Femenino,Pueblo Libre,Nuevo
+957,José María Ortega,18,Masculino,San Miguel,Nuevo
+958,Paulina del Andrade,41,Femenino,Pueblo Libre,Nuevo
+959,Julie Armengol Viña,45,Masculino,Pueblo Libre,Nuevo
+960,Victoriano Alemany Méndez,45,Masculino,Miraflores,Frecuente
+961,Natalia Vázquez Pinedo,58,Femenino,Jesús María,Frecuente
+962,Azahar Rosario Gonzalo Camacho,51,Femenino,Barranco,Nuevo
+963,Felipe Sebastian Pacheco Martí,37,Masculino,Pueblo Libre,Frecuente
+964,Arcelia del Cisneros,31,Femenino,San Isidro,Nuevo
+965,Anita Gomez,51,Masculino,Miraflores,VIP
+966,Onofre Palomino Gil,43,Masculino,Surco,Nuevo
+967,Fabricio Luz Neira,68,Femenino,Lince,Nuevo
+968,Jose Manuel Salazar Bárcena,65,Femenino,San Miguel,Frecuente
+969,Chema Sureda Marin,67,Masculino,San Borja,Nuevo
+970,Danilo Tenorio Mulet,62,Masculino,Miraflores,Nuevo
+971,Loida Haro Lerma,24,Masculino,Barranco,Frecuente
+972,Berta Boix,40,Masculino,Lince,Frecuente
+973,Leonel Marcio Vigil Catalán,46,Masculino,Surco,Nuevo
+974,Alejo Barrios Durán,23,Masculino,Miraflores,VIP
+975,Cirino Calzada Garay,35,Femenino,Pueblo Libre,Nuevo
+976,Tristán Peral-Llobet,55,Masculino,Miraflores,Nuevo
+977,Ariadna Guillén Dueñas,57,Femenino,San Borja,Nuevo
+978,Gil Calatayud Ballesteros,20,Masculino,San Borja,Frecuente
+979,Sandra Alcalá Pastor,18,Femenino,Surco,Nuevo
+980,Macario Vallés Girón,30,Femenino,San Borja,Nuevo
+981,Etelvina Cuenca Andrade,41,Femenino,San Isidro,Nuevo
+982,María Manuela de Vallejo,20,Femenino,Pueblo Libre,Frecuente
+983,Visitación Sosa,37,Masculino,Pueblo Libre,Frecuente
+984,Gregorio Mena Azorin,63,Masculino,Pueblo Libre,Nuevo
+985,Heriberto Juan Neira Torrent,65,Femenino,Jesús María,Nuevo
+986,Curro Ibáñez Benito,33,Femenino,San Borja,Frecuente
+987,Eusebio Murillo Campillo,63,Femenino,Pueblo Libre,Frecuente
+988,Sancho Doménech Villalba,66,Femenino,Pueblo Libre,Frecuente
+989,Nilo Pazos Berenguer,21,Femenino,La Molina,Nuevo
+990,Gala Perales Galiano,41,Femenino,Miraflores,VIP
+991,Aroa Armida Giralt Laguna,57,Femenino,Jesús María,Nuevo
+992,Haydée Martin,43,Femenino,Surco,Nuevo
+993,Fidela González Villalobos,32,Masculino,La Molina,Frecuente
+994,Duilio Carmona Campillo,59,Femenino,Barranco,Nuevo
+995,Ruperto Marti,37,Femenino,Surco,VIP
+996,Emperatriz Paredes-Calderón,66,Femenino,Surco,Nuevo
+997,Gisela de Cañizares,58,Femenino,La Molina,Frecuente
+998,Ester Soler Cabañas,63,Femenino,San Isidro,Nuevo
+999,Manuela Ruiz Almazán,18,Masculino,San Miguel,Nuevo
+1000,Úrsula Baeza-Franch,59,Masculino,Surco,Nuevo
+1001,Jerónimo Botella-Figueras,39,Femenino,Jesús María,Frecuente
+1002,Griselda Lara Rosell,19,Masculino,Barranco,Frecuente
+1003,Dafne Feijoo,54,Masculino,Miraflores,Nuevo
+1004,María Del Carmen Camacho Carretero,39,Masculino,Miraflores,Frecuente
+1005,Juan Francisco Guzmán,23,Masculino,La Molina,Nuevo
+1006,Beatriz Blanch Bernal,64,Femenino,Surco,Nuevo
+1007,Óscar Alfonso Torres Dominguez,32,Femenino,Lince,Nuevo
+1008,Elisa Mínguez,30,Masculino,Barranco,Nuevo
+1009,Pía Galiano,33,Femenino,Barranco,Nuevo
+1010,Iker Balaguer Cañellas,65,Masculino,San Isidro,Nuevo
+1011,Mario Pascual,28,Femenino,La Molina,Nuevo
+1012,Lucio Llano Ortega,26,Masculino,Jesús María,Frecuente
+1013,Lola Lastra,51,Masculino,Barranco,Frecuente
+1014,Isabel Rozas Solana,47,Masculino,La Molina,Nuevo
+1015,Carlota Bastida,39,Femenino,Barranco,Nuevo
+1016,Sol Pelayo Arcos,32,Masculino,Surco,Frecuente
+1017,Pascual Lasa Llabrés,65,Femenino,La Molina,Frecuente
+1018,Jose Carlos Cerdán Alegre,46,Femenino,Lince,Nuevo
+1019,Abel Herrero Mariscal,29,Femenino,Miraflores,Nuevo
+1020,Angélica Isern,40,Femenino,Lince,Nuevo
+1021,Guadalupe Bayona Mora,36,Femenino,Jesús María,Frecuente
+1022,Fanny Mirta Castejón Caballero,41,Masculino,Jesús María,Nuevo
+1023,Fátima Mena Quintanilla,27,Masculino,Pueblo Libre,VIP
+1024,Pepe Blanca Nogués,58,Femenino,Barranco,VIP
+1025,Cruz Angelina Calvet Alcalde,35,Masculino,Barranco,Nuevo
+1026,María Jesús Lluch Arnaiz,38,Femenino,Barranco,VIP
+1027,Javiera Robledo Alsina,36,Femenino,Jesús María,Nuevo
+1028,Josefa de Castro,68,Femenino,Jesús María,Nuevo
+1029,Rosalinda Rocamora Cabrero,59,Femenino,San Borja,Nuevo
+1030,Francisco Javier Crespo,23,Femenino,San Miguel,Frecuente
+1031,Martina Romeu Roldan,32,Femenino,San Isidro,Nuevo
+1032,Febe Martinez Quintanilla,33,Femenino,Surco,Nuevo
+1033,Noelia Pulido Goñi,49,Femenino,Lince,Frecuente
+1034,Maximino Benavides Mayo,68,Masculino,Barranco,Nuevo
+1035,Martina Verdugo,28,Masculino,Miraflores,Nuevo
+1036,Tomasa Pedraza Domingo,56,Femenino,Miraflores,Frecuente
+1037,Guadalupe de Cortina,64,Masculino,Barranco,Frecuente
+1038,Odalis Pardo Quirós,50,Femenino,Surco,Nuevo
+1039,Teobaldo Oliva Castejón,33,Femenino,Pueblo Libre,Nuevo
+1040,Milagros Silva Pellicer,60,Masculino,Surco,Frecuente
+1041,Alexandra Prieto Gárate,18,Femenino,La Molina,Frecuente
+1042,Olegario Torrent Catalá,29,Femenino,La Molina,Nuevo
+1043,Eutimio Sureda Arregui,55,Femenino,Pueblo Libre,Nuevo
+1044,Miriam Amo Varela,41,Femenino,Lince,Nuevo
+1045,Nereida María Montserrat Portillo,68,Femenino,Lince,Nuevo
+1046,Emiliana Franco-Escolano,59,Masculino,La Molina,Nuevo
+1047,Montserrat Albero Llano,26,Femenino,Surco,Frecuente
+1048,Fito Tomé Palau,66,Masculino,San Borja,Nuevo
+1049,Nadia Pacífica Navarrete Landa,18,Femenino,Pueblo Libre,Frecuente
+1050,Pastor Badía Peinado,46,Femenino,Jesús María,Nuevo
+1051,Conrado Prada-Arias,35,Femenino,Pueblo Libre,Nuevo
+1052,Dan Carpio-Arana,49,Masculino,Surco,Frecuente
+1053,Eufemia Cañas Lloret,46,Masculino,Surco,Nuevo
+1054,Alma Girón Parejo,64,Masculino,Miraflores,Nuevo
+1055,Débora Antonia Llabrés Garriga,37,Masculino,Pueblo Libre,Nuevo
+1056,María Manuela del Roig,42,Masculino,San Isidro,Nuevo
+1057,Simón del Guijarro,61,Masculino,Barranco,Nuevo
+1058,Rebeca Gallego-Verdú,67,Femenino,Miraflores,Nuevo
+1059,Luna de Alvarez,37,Femenino,La Molina,VIP
+1060,Benigna Pedrero Ruiz,34,Femenino,Miraflores,Nuevo
+1061,Esperanza Esparza Porcel,64,Femenino,Barranco,Frecuente
+1062,Juanita Expósito Roca,18,Femenino,Surco,Frecuente
+1063,Edgardo Pujadas Feliu,56,Femenino,Barranco,Nuevo
+1064,Rico Mendizábal Robledo,39,Masculino,San Miguel,Nuevo
+1065,Edu del Balaguer,49,Femenino,La Molina,Frecuente
+1066,María Luisa Araujo,70,Femenino,Surco,Nuevo
+1067,Lorenzo Carballo Rozas,21,Femenino,Jesús María,Nuevo
+1068,Manuel Torralba Losada,29,Masculino,La Molina,Frecuente
+1069,Pedro Ferreras Cerdán,39,Masculino,Barranco,Frecuente
+1070,África Maricela Echeverría Borrego,59,Femenino,San Isidro,Nuevo
+1071,Salvador Juan Carlos Real Teruel,63,Masculino,Pueblo Libre,Nuevo
+1072,Rosalinda Rivera,70,Masculino,Jesús María,VIP
+1073,Dulce Aguilera Cortina,34,Masculino,San Miguel,Frecuente
+1074,Ruben Báez Ródenas,53,Masculino,Pueblo Libre,Frecuente
+1075,Dimas Luque Arteaga,32,Masculino,Miraflores,Nuevo
+1076,Dulce de Lladó,52,Masculino,Surco,Nuevo
+1077,Victor Manuel Pedraza Velázquez,43,Femenino,Lince,Frecuente
+1078,Clara Gallardo Cortina,41,Masculino,Pueblo Libre,Nuevo
+1079,Estela Calvo Criado,31,Femenino,San Borja,VIP
+1080,Leonardo de Riera,48,Masculino,San Isidro,Frecuente
+1081,Jordana Jiménez Novoa,36,Masculino,La Molina,Frecuente
+1082,Trinidad Muñoz Martí,31,Femenino,Jesús María,Frecuente
+1083,Cándida Coronado Ferrándiz,19,Femenino,Jesús María,Nuevo
+1084,Baldomero Llobet Porcel,48,Masculino,Barranco,Nuevo
+1085,Vinicio Tirado Julián,31,Masculino,San Isidro,Frecuente
+1086,Etelvina Riera Mercader,54,Femenino,Barranco,Nuevo
+1087,Porfirio Lucena,44,Masculino,Miraflores,Frecuente
+1088,Néstor Sales Serrano,65,Femenino,San Miguel,Nuevo
+1089,Dalila Peinado Batlle,25,Masculino,Pueblo Libre,Frecuente
+1090,Sarita Company Clavero,58,Masculino,Miraflores,Frecuente
+1091,Sandra Galindo,53,Femenino,San Miguel,Nuevo
+1092,Elodia Puga Villalobos,30,Femenino,Barranco,VIP
+1093,Jose Gimeno Campoy,22,Femenino,Jesús María,Frecuente
+1094,Plinio Cañas Salamanca,52,Masculino,La Molina,Frecuente
+1095,Paula Sarabia,18,Masculino,Barranco,Nuevo
+1096,Fausto Peña Olmedo,54,Femenino,Lince,Nuevo
+1097,Teófila Abellán Cerdán,58,Femenino,Barranco,Nuevo
+1098,Álvaro del Plana,26,Femenino,Pueblo Libre,Frecuente
+1099,Manuelita del Bas,22,Femenino,San Miguel,Nuevo
+1100,Belen Palma Barrios,34,Femenino,Surco,Frecuente
+1101,Graciana Ródenas,54,Masculino,Miraflores,Nuevo
+1102,Diana Serra-Valenciano,21,Femenino,Miraflores,Nuevo
+1103,Horacio Morales Aguiló,21,Femenino,San Isidro,Frecuente
+1104,Odalis Galindo Castell,56,Masculino,Miraflores,Nuevo
+1105,Amada Esteve Espinosa,35,Masculino,La Molina,Frecuente
+1106,Baltasar Conde Redondo,48,Masculino,San Miguel,Frecuente
+1107,Ainoa Figueras Saavedra,46,Femenino,San Isidro,Frecuente
+1108,Herminio Abascal Corbacho,24,Femenino,Surco,Frecuente
+1109,Reyes Menendez Barranco,37,Femenino,Jesús María,Frecuente
+1110,Jose Antonio Ariño Rey,64,Masculino,San Miguel,Nuevo
+1111,Teodoro Duque Luna,64,Femenino,San Miguel,Nuevo
+1112,María Carmen Zorrilla Camacho,53,Masculino,Lince,Nuevo
+1113,José Ángel Zapata Villa,70,Masculino,Surco,Frecuente
+1114,Dorita de Cerdá,63,Masculino,La Molina,Nuevo
+1115,Alonso Rios-Fuertes,20,Femenino,La Molina,Nuevo
+1116,Gala Somoza Abad,55,Femenino,Lince,Frecuente
+1117,Cayetana Montalbán-Castells,27,Masculino,La Molina,Nuevo
+1118,Marisa Adela Alcalde Vidal,68,Femenino,San Miguel,Nuevo
+1119,Celso del Rios,54,Masculino,Jesús María,Nuevo
+1120,Paulino Calleja Lumbreras,62,Femenino,Jesús María,Nuevo
+1121,Leocadio Baró Casares,34,Masculino,Barranco,VIP
+1122,Raimundo Pérez Noguera,25,Femenino,San Isidro,Frecuente
+1123,Trinidad Ochoa Juliá,53,Femenino,La Molina,Nuevo
+1124,Gil Palmer Blázquez,36,Femenino,Jesús María,Frecuente
+1125,Flora Paca Leon Santamaria,60,Femenino,Miraflores,VIP
+1126,Sarita Sáenz Hernandez,69,Femenino,Pueblo Libre,Nuevo
+1127,Omar Cabrera-Duran,54,Femenino,La Molina,VIP
+1128,Silvestre Salgado,50,Femenino,La Molina,VIP
+1129,Ángel Piñeiro Villalobos,52,Masculino,San Isidro,Nuevo
+1130,Lucas Yuste,58,Femenino,Surco,VIP
+1131,Azeneth Vazquez Daza,40,Femenino,Surco,Frecuente
+1132,Aarón de Roca,26,Femenino,Surco,Frecuente
+1133,Tomás Amores,69,Masculino,San Miguel,VIP
+1134,Plinio Mayol Boix,28,Masculino,Barranco,VIP
+1135,Pía Leyre Gutierrez Puerta,48,Femenino,San Miguel,Nuevo
+1136,Carlito de Ramos,22,Masculino,Lince,Frecuente
+1137,Rico Sureda Amores,66,Femenino,Pueblo Libre,Nuevo
+1138,Olegario del Pacheco,69,Masculino,San Isidro,Nuevo
+1139,Vicenta Fiol Grande,29,Masculino,Pueblo Libre,Frecuente
+1140,Gracia Ángela Cadenas Bermejo,61,Masculino,San Miguel,Frecuente
+1141,Fátima Merino,54,Masculino,Surco,Frecuente
+1142,Roberta Mas Lopez,44,Masculino,La Molina,VIP
+1143,Espiridión de Miranda,33,Masculino,Surco,VIP
+1144,Abigaíl Llanos,65,Masculino,Jesús María,Nuevo
+1145,Emperatriz Joaquina Gascón Borrego,35,Femenino,Surco,Frecuente
+1146,Teresa Eloísa Pedraza Pi,35,Masculino,Barranco,Nuevo
+1147,Josefina Salomé Infante Machado,68,Masculino,San Borja,Nuevo
+1148,Leocadio Viñas Gordillo,40,Masculino,Barranco,Nuevo
+1149,Nacio Gracia Guardiola,22,Femenino,Jesús María,Frecuente
+1150,Andrés del Barba,24,Masculino,Lince,Frecuente
+1151,Noé Carrión Melero,20,Femenino,San Borja,Frecuente
+1152,Gerónimo Doménech Espada,32,Femenino,San Isidro,Frecuente
+1153,Luciano Luís Armengol,46,Masculino,San Isidro,Frecuente
+1154,Fátima Mancebo Barragán,70,Masculino,La Molina,Nuevo
+1155,Vanesa Varela Leon,54,Masculino,Jesús María,Frecuente
+1156,Ximena Taboada Garzón,30,Femenino,San Isidro,Nuevo
+1157,Natanael Boix-Moll,62,Femenino,Jesús María,Frecuente
+1158,Teodora Blanca Salcedo,29,Femenino,Jesús María,Frecuente
+1159,Albino Carnero Fortuny,34,Femenino,Pueblo Libre,Frecuente
+1160,Bartolomé Exposito,66,Femenino,Lince,Nuevo
+1161,Mónica Moliner Martí,52,Masculino,Surco,Frecuente
+1162,Mariano Iborra Escudero,54,Masculino,Lince,Nuevo
+1163,María Ángeles Osorio Recio,20,Femenino,La Molina,Nuevo
+1164,Bernabé Rocamora Palacios,59,Masculino,San Isidro,Frecuente
+1165,Concepción Lucena Atienza,20,Masculino,Pueblo Libre,Frecuente
+1166,Felisa de Galvez,68,Masculino,San Isidro,Nuevo
+1167,Teodoro Clemente-Nevado,29,Masculino,San Miguel,Nuevo
+1168,María Dolores González-Ariza,33,Masculino,San Miguel,Frecuente
+1169,Rosalía Pou Adán,50,Masculino,La Molina,VIP
+1170,Clotilde Corral Perera,59,Femenino,Pueblo Libre,Nuevo
+1171,Albano Fabricio Palma Gámez,37,Femenino,Jesús María,Nuevo
+1172,Pacífica del Calzada,51,Femenino,Lince,Nuevo
+1173,Primitiva Corral Cerezo,42,Femenino,Lince,Frecuente
+1174,Gerónimo Oliva Simó,25,Masculino,Miraflores,VIP
+1175,Juan Manuel Gutiérrez Expósito,20,Masculino,Barranco,Frecuente
+1176,Corona Galán-Ayala,43,Femenino,Barranco,Frecuente
+1177,Ángel Manjón,53,Femenino,San Isidro,Frecuente
+1178,Baudelio Serna Vilaplana,40,Masculino,Barranco,Nuevo
+1179,Calista Maldonado Peláez,25,Femenino,San Isidro,Frecuente
+1180,Cloe Peralta,50,Masculino,Lince,Nuevo
+1181,Graciano Rivero Rivera,60,Masculino,San Isidro,Nuevo
+1182,Edelmira Salinas Palma,25,Masculino,La Molina,Frecuente
+1183,Celso Daniel Vargas Moles,53,Masculino,Jesús María,Nuevo
+1184,Modesto Franch Villegas,46,Femenino,Lince,Nuevo
+1185,Eutropio del Pedro,55,Femenino,San Isidro,Nuevo
+1186,Quique Román Tejada,63,Femenino,Jesús María,Nuevo
+1187,Casandra del Vilalta,53,Masculino,Jesús María,Nuevo
+1188,Olegario Mendoza Sotelo,46,Femenino,Surco,Frecuente
+1189,Heliodoro Pablo Benítez,63,Femenino,La Molina,Nuevo
+1190,Gabriela Almagro Cózar,59,Femenino,Pueblo Libre,Nuevo
+1191,Toribio Naranjo Espinosa,66,Masculino,San Miguel,Nuevo
+1192,Ainara Goicoechea Gomis,29,Femenino,Pueblo Libre,Frecuente
+1193,Rosenda Pujol Bermúdez,20,Masculino,Lince,Frecuente
+1194,Marianela Ariño,61,Femenino,Miraflores,Frecuente
+1195,Ileana Mendizábal,47,Femenino,Lince,Nuevo
+1196,Arcelia Mena Valenciano,59,Femenino,Miraflores,Nuevo
+1197,Adán de Falcó,48,Femenino,La Molina,Frecuente
+1198,Eligio del Garzón,26,Masculino,Jesús María,Frecuente
+1199,Pía Camacho Teruel,66,Masculino,La Molina,Nuevo
+1200,Dalila Fortuny Alcolea,22,Femenino,Miraflores,Nuevo
+1201,Ariel Carvajal-Mora,64,Femenino,Miraflores,Nuevo
+1202,Nazaret Sancho-Valdés,20,Masculino,Lince,Frecuente
+1203,Marcio Gálvez Marí,26,Femenino,Jesús María,Nuevo
+1204,Venceslás Andres-Fabregat,52,Masculino,La Molina,Nuevo
+1205,Susanita Lorena Villaverde Valdés,23,Masculino,San Isidro,Nuevo
+1206,Juan Bautista del Borrell,25,Femenino,San Isidro,Frecuente
+1207,Severino Bartolomé Cobo González,40,Femenino,Barranco,Nuevo
+1208,Eliseo Blazquez Alcalde,49,Masculino,Surco,Nuevo
+1209,Sancho Durán-Sáez,62,Masculino,Pueblo Libre,Frecuente
+1210,Osvaldo Poza Peñalver,66,Femenino,Miraflores,Nuevo
+1211,Luz Durán Gomis,21,Femenino,San Miguel,Nuevo
+1212,Lola Gimenez Farré,69,Femenino,Miraflores,Frecuente
+1213,Delfina Almansa Gil,22,Masculino,Barranco,Nuevo
+1214,Íñigo Carretero-Ocaña,26,Femenino,San Borja,VIP
+1215,Emilia Ramón Cuenca,52,Femenino,San Isidro,Nuevo
+1216,Iris Martín Adadia,38,Masculino,Surco,Frecuente
+1217,Jose Miguel Aramburu Cantero,23,Masculino,San Isidro,Frecuente
+1218,Fernando Tomas Quero,57,Femenino,Surco,Frecuente
+1219,Elodia Clarisa Fernández Alberdi,27,Femenino,Miraflores,VIP
+1220,Clímaco Tejedor Peralta,67,Masculino,Miraflores,Nuevo
+1221,Rafaela Ferrández,32,Masculino,Surco,Frecuente
+1222,Felipe Gallardo-Cámara,35,Masculino,Surco,Frecuente
+1223,Hernando Cañas-Páez,53,Masculino,Jesús María,Nuevo
+1224,Manu Montserrat,70,Masculino,San Miguel,Frecuente
+1225,Lourdes Morcillo-Borrás,28,Masculino,Lince,Nuevo
+1226,Pepito Duarte Hernando,68,Femenino,La Molina,VIP
+1227,Noelia Santana,66,Masculino,San Miguel,Frecuente
+1228,Vilma Gisbert Amores,29,Femenino,Surco,Nuevo
+1229,Genoveva Polo Abad,54,Masculino,Barranco,VIP
+1230,Abraham de Monreal,30,Masculino,Surco,Nuevo
+1231,Octavio Canals,30,Masculino,Surco,Frecuente
+1232,Joel Murcia Bayona,58,Femenino,Barranco,VIP
+1233,Joan Ruiz Murcia,70,Femenino,La Molina,Nuevo
+1234,René Baeza Madrigal,22,Femenino,La Molina,Nuevo
+1235,Miriam Estefanía Luz Villaverde,33,Masculino,San Borja,Nuevo
+1236,Nadia Ramirez Mascaró,37,Masculino,San Borja,Nuevo
+1237,Jose Miguel Zurita Carrión,65,Femenino,Barranco,Nuevo
+1238,Nereida Camps Galán,35,Femenino,La Molina,Frecuente
+1239,Nazario Correa-Báez,27,Masculino,Miraflores,Frecuente
+1240,Emiliana Velázquez Olmo,67,Masculino,Surco,Frecuente
+1241,Sonia Palacio Bustos,41,Masculino,San Miguel,Nuevo
+1242,Apolonia Seguí,54,Femenino,Jesús María,VIP
+1243,Claudia Ainoa Pablo Gimeno,60,Femenino,La Molina,Nuevo
+1244,Martín Caro Gual,18,Femenino,La Molina,Frecuente
+1245,Ezequiel Diez,18,Masculino,Lince,Nuevo
+1246,Pastor Mata Aguado,45,Femenino,Miraflores,Nuevo
+1247,Ariadna Pera Carrera,45,Masculino,Pueblo Libre,Nuevo
+1248,Pedro Álamo Carreño,36,Femenino,Pueblo Libre,Nuevo
+1249,Cornelio Aragonés-Marcos,39,Femenino,Jesús María,Nuevo
+1250,Filomena Zorrilla Valenzuela,45,Femenino,Lince,Frecuente
+1251,Amada de Gomis,57,Masculino,Pueblo Libre,Frecuente
+1252,Santos Iglesia Ayllón,29,Masculino,San Borja,Nuevo
+1253,Gabino Coronado-Osuna,50,Femenino,Barranco,Nuevo
+1254,Jessica del Solana,48,Masculino,San Isidro,Frecuente
+1255,Miguel Ángel Figuerola Ávila,59,Masculino,Pueblo Libre,Frecuente
+1256,Amancio de Sabater,28,Masculino,Surco,Nuevo
+1257,Ciriaco Herrera,26,Femenino,Jesús María,Nuevo
+1258,Filomena Ramis Mena,37,Femenino,Miraflores,Frecuente
+1259,Aitana Saez Casares,69,Femenino,Lince,Nuevo
+1260,Isa Pardo Padilla,56,Femenino,Lince,Frecuente
+1261,Elpidio Valverde Torres,38,Masculino,San Miguel,Nuevo
+1262,Isa Esteve Viña,36,Femenino,San Borja,Nuevo
+1263,Felix Pizarro Baños,19,Femenino,Jesús María,Frecuente
+1264,Esmeralda Marí Ricart,24,Masculino,Miraflores,Nuevo
+1265,Iker Perera Huerta,43,Masculino,San Borja,Frecuente
+1266,Omar Barrera,18,Masculino,Miraflores,Frecuente
+1267,Anacleto Pardo Ochoa,67,Masculino,Surco,Nuevo
+1268,Ascensión Flavia Cañas Andreu,57,Femenino,Miraflores,Nuevo
+1269,Cándido Ledesma-Riquelme,53,Femenino,San Isidro,Nuevo
+1270,Beatriz Costa Vicens,61,Femenino,Jesús María,Nuevo
+1271,Bernabé Segura Antón,39,Femenino,Miraflores,Frecuente
+1272,Ramiro Farré Echeverría,70,Femenino,Jesús María,Nuevo
+1273,Román Cuenca Morales,33,Femenino,San Borja,Nuevo
+1274,Juliana Arana Carretero,59,Femenino,La Molina,Nuevo
+1275,Brunilda Tello Valverde,54,Masculino,La Molina,Nuevo
+1276,Saturnina Carmona Alberdi,63,Masculino,Pueblo Libre,Frecuente
+1277,Marisol Elorza-Batlle,55,Femenino,Pueblo Libre,Nuevo
+1278,Aurelia Pinto,69,Masculino,Pueblo Libre,Nuevo
+1279,Gabriela Giner Pina,27,Femenino,Jesús María,VIP
+1280,Juan Luis Aureliano Baena Ávila,67,Masculino,Surco,Nuevo
+1281,Malena Guijarro Soler,38,Femenino,Lince,Nuevo
+1282,Mariana de Amigó,50,Masculino,Pueblo Libre,Nuevo
+1283,Elías Osvaldo Gelabert Alcántara,49,Femenino,Jesús María,VIP
+1284,Fidela Somoza,31,Masculino,Surco,Frecuente
+1285,Herminio Escolano Arnal,35,Masculino,La Molina,VIP
+1286,Martina Gordillo Quiroga,30,Masculino,Pueblo Libre,Nuevo
+1287,Susanita Sola Alberdi,29,Femenino,Jesús María,Frecuente
+1288,Teodoro Sans Doménech,20,Masculino,La Molina,Nuevo
+1289,Chuy Aguilar Pineda,60,Femenino,San Miguel,Frecuente
+1290,Mirta España,21,Femenino,Jesús María,Nuevo
+1291,Godofredo Fiol Gibert,66,Masculino,Pueblo Libre,VIP
+1292,Isidro Marcelino Vera Mendizábal,42,Femenino,La Molina,Nuevo
+1293,José Manuel Bueno Tolosa,68,Femenino,Miraflores,VIP
+1294,Trinidad Bermudez,66,Femenino,La Molina,Frecuente
+1295,Conrado del Rodrigo,30,Masculino,La Molina,Nuevo
+1296,Marc Lamas Belda,54,Masculino,Jesús María,Frecuente
+1297,Amarilis Saura-Lledó,18,Masculino,San Isidro,Frecuente
+1298,Heriberto Revilla Mesa,61,Femenino,Miraflores,Nuevo
+1299,Esmeralda Meléndez Aragonés,24,Femenino,La Molina,Frecuente
+1300,Lupe Arjona Piñeiro,68,Masculino,Jesús María,Nuevo
+1301,Jose Asenjo,46,Masculino,Miraflores,Nuevo
+1302,Amaro Pino Clemente,41,Masculino,San Isidro,VIP
+1303,Noa Tejada Duque,69,Femenino,Pueblo Libre,Frecuente
+1304,Cruz Barroso Maza,70,Masculino,Jesús María,Nuevo
+1305,Palmira Higueras Castells,40,Masculino,San Isidro,Nuevo
+1306,Manuel Aramburu Giralt,48,Femenino,San Miguel,Frecuente
+1307,Berta Pili Sanz Seguí,24,Masculino,Barranco,Nuevo
+1308,María de Hernández,62,Masculino,San Miguel,Nuevo
+1309,Ciriaco Niño-Flores,34,Masculino,Surco,Nuevo
+1310,Álvaro del Patiño,34,Masculino,La Molina,Frecuente
+1311,Albino Pera Duarte,54,Femenino,Miraflores,Frecuente
+1312,Teófila Sainz Peinado,70,Femenino,Surco,Frecuente
+1313,Paloma Redondo Blanco,52,Masculino,La Molina,Frecuente
+1314,Godofredo Arias Gallardo,42,Masculino,Pueblo Libre,Nuevo
+1315,Martin Higueras Iglesia,48,Femenino,San Miguel,Nuevo
+1316,Kike Borrás Prado,37,Masculino,Miraflores,Frecuente
+1317,Etelvina Tere Sáenz Asenjo,22,Masculino,Miraflores,Nuevo
+1318,Odalys Enríquez,58,Femenino,Jesús María,Nuevo
+1319,Calista Soria Gomila,50,Masculino,Pueblo Libre,Nuevo
+1320,Evaristo Puente-Cabello,37,Masculino,Surco,Frecuente
+1321,Cristóbal Grande Hervás,40,Masculino,San Borja,VIP
+1322,María José Mendizábal Tello,53,Masculino,Pueblo Libre,VIP
+1323,Consuela Polo,51,Femenino,Miraflores,VIP
+1324,Curro Roldan Carreras,48,Femenino,Jesús María,Nuevo
+1325,Pilar Miró Calleja,30,Masculino,San Borja,Frecuente
+1326,Ovidio de Asensio,56,Masculino,La Molina,Nuevo
+1327,Nando Ballester Cases,46,Masculino,La Molina,Nuevo
+1328,Eduardo Galvez-Donoso,65,Femenino,La Molina,Frecuente
+1329,Maximiliano Sáez Vicens,30,Femenino,Barranco,Nuevo
+1330,Vera Casanovas Cid,62,Femenino,San Borja,Nuevo
+1331,Teresa Aramburu Arenas,23,Masculino,Pueblo Libre,Nuevo
+1332,Hernán Casanovas Jerez,48,Femenino,Barranco,Nuevo
+1333,Cayetana Gallart Casares,49,Femenino,San Isidro,Nuevo
+1334,Josep Oliva Quintero,34,Masculino,Surco,Frecuente
+1335,Nando Plana Piquer,50,Femenino,Barranco,Frecuente
+1336,Basilio Bautista,59,Femenino,Surco,Nuevo
+1337,Patricio de Borrego,20,Femenino,Miraflores,Nuevo
+1338,Josefa Santamaría,50,Masculino,La Molina,Nuevo
+1339,Rosalinda Cloe Blanco Ariza,19,Masculino,San Borja,Nuevo
+1340,Salomé Cornejo,33,Masculino,Miraflores,Nuevo
+1341,Elodia Rovira Bauzà,58,Femenino,Lince,Frecuente
+1342,Casemiro Navas Vera,47,Femenino,Pueblo Libre,Nuevo
+1343,Benito Quevedo Meléndez,49,Femenino,Barranco,Frecuente
+1344,Erasmo Pérez Checa,26,Masculino,San Isidro,Frecuente
+1345,Marino Desiderio Garrido Calderón,26,Masculino,Surco,Frecuente
+1346,Ezequiel Ibañez Conesa,46,Masculino,Jesús María,Frecuente
+1347,Valerio Serra Garriga,41,Femenino,San Miguel,Nuevo
+1348,Jorge Mas Boada,24,Masculino,Jesús María,Nuevo
+1349,Goyo de Tolosa,30,Femenino,Barranco,Nuevo
+1350,Etelvina Amaya Castejón,43,Masculino,Pueblo Libre,Frecuente
+1351,Sandalio Sastre,65,Masculino,San Borja,Nuevo
+1352,Martina Clara Martin Cornejo,64,Femenino,San Isidro,Nuevo
+1353,José Ángel Galan Jiménez,21,Masculino,Jesús María,Frecuente
+1354,María Manuela Burgos Castelló,33,Femenino,Surco,Nuevo
+1355,Adela Mamen Galan Saura,42,Masculino,Miraflores,VIP
+1356,Selena Alegre Alcalá,57,Masculino,Surco,Nuevo
+1357,Aarón Gallart-Puente,63,Masculino,Barranco,Nuevo
+1358,Leire Valenzuela,30,Masculino,Barranco,Nuevo
+1359,Consuelo Martínez-Carrera,51,Femenino,San Isidro,Frecuente
+1360,Ovidio Merino Martorell,36,Masculino,San Borja,Nuevo
+1361,Elisabet Crespi Gascón,28,Masculino,San Isidro,Frecuente
+1362,Lina Durán Ferreras,54,Femenino,Miraflores,Nuevo
+1363,Nydia Martínez Quintero,22,Masculino,Surco,Nuevo
+1364,Manuelita Lluch-Jódar,43,Femenino,Jesús María,VIP
+1365,Angelita Lobo Velázquez,24,Masculino,Pueblo Libre,Nuevo
+1366,Aitana Avilés Cózar,18,Femenino,San Borja,Frecuente
+1367,Noelia del Ferrándiz,37,Masculino,Lince,VIP
+1368,Trinidad Lucena Iniesta,58,Masculino,Miraflores,Frecuente
+1369,Rosa María Balaguer-Gárate,44,Femenino,Jesús María,Nuevo
+1370,Pancho de Gil,53,Masculino,Barranco,Frecuente
+1371,Renato Natalio Carnero Salas,59,Masculino,La Molina,Frecuente
+1372,Lorenza Ale Zapata Carro,25,Femenino,Pueblo Libre,Frecuente
+1373,Delia Barragán Corral,21,Femenino,La Molina,Nuevo
+1374,Marcio Cases Sanz,30,Masculino,Miraflores,Frecuente
+1375,Álvaro del Esteve,56,Femenino,La Molina,Frecuente
+1376,Clarisa Salom Sales,19,Masculino,San Borja,Nuevo
+1377,Reynaldo del Cabeza,50,Masculino,San Borja,Frecuente
+1378,Paulina Galiano-Cabeza,37,Masculino,Surco,Nuevo
+1379,Anita del Pinilla,59,Femenino,Surco,Nuevo
+1380,Amada Batlle Romero,30,Femenino,Pueblo Libre,Frecuente
+1381,Ramón Albino Cánovas Alemany,50,Masculino,Jesús María,VIP
+1382,Yago Ortega Rocha,49,Masculino,Pueblo Libre,Nuevo
+1383,Manu Alfonso Díez,48,Femenino,Surco,Nuevo
+1384,Carlos Jaén Martín,69,Femenino,Barranco,Nuevo
+1385,Tomasa Odalis Gual Palma,41,Masculino,Pueblo Libre,Frecuente
+1386,Gerardo Conde Hierro,30,Masculino,Miraflores,Frecuente
+1387,Modesta Neira Losada,41,Masculino,San Isidro,Frecuente
+1388,Mario Hurtado Aragón,52,Femenino,San Borja,Nuevo
+1389,Azahara Estévez Lobato,66,Femenino,San Miguel,Nuevo
+1390,Toni Fábregas Carrión,22,Masculino,San Borja,Frecuente
+1391,Gaspar Lorenzo Sanchez,33,Femenino,San Isidro,Frecuente
+1392,Francisco Jose Robledo Andreu,63,Femenino,San Borja,Nuevo
+1393,Aránzazu Mendoza,48,Femenino,La Molina,VIP
+1394,Juanita Tovar Palomares,56,Masculino,Surco,Frecuente
+1395,Samanta Santana Zabala,48,Masculino,Jesús María,Frecuente
+1396,Fabio Hidalgo Martinez,35,Femenino,Pueblo Libre,Frecuente
+1397,Lorenzo de Escrivá,52,Femenino,Pueblo Libre,Frecuente
+1398,Leoncio Arnal Uría,53,Femenino,Pueblo Libre,Frecuente
+1399,Manola Arnau Pacheco,54,Masculino,Jesús María,Frecuente
+1400,Salvador Barragán Reguera,25,Masculino,Pueblo Libre,Nuevo
+1401,Luís Cañellas Catalá,62,Masculino,San Isidro,Nuevo
+1402,Ildefonso Sacristán Galván,61,Masculino,San Borja,Frecuente
+1403,Jose Ramón Reyes Cisneros,64,Masculino,Pueblo Libre,Frecuente
+1404,Daniel Camps,57,Femenino,Jesús María,Nuevo
+1405,Calisto Rivero Pereira,56,Masculino,San Miguel,Frecuente
+1406,Jose Ignacio Salvador Paredes,61,Femenino,San Borja,Frecuente
+1407,Inés de Alfaro,56,Masculino,La Molina,Frecuente
+1408,Jose Ramón Vera,29,Femenino,San Isidro,Frecuente
+1409,Tomasa de Barón,35,Femenino,Lince,Nuevo
+1410,Salomón Peiró,31,Femenino,San Borja,Nuevo
+1411,Máxima Gertrudis Guillén Casares,34,Femenino,San Isidro,Nuevo
+1412,Chita Marqués Rojas,66,Masculino,Barranco,Frecuente
+1413,Pío Ávila-Vera,54,Masculino,Miraflores,Nuevo
+1414,Herminia Sierra,32,Femenino,Pueblo Libre,Frecuente
+1415,Germán Antúnez,66,Femenino,San Borja,Nuevo
+1416,Odalys de Vizcaíno,66,Masculino,San Isidro,VIP
+1417,Julieta Alberto Rincón,49,Masculino,San Isidro,Frecuente
+1418,Albina Juanita Vall Rodriguez,48,Femenino,San Isidro,Nuevo
+1419,Camila Rita Lledó Armengol,41,Femenino,San Isidro,Frecuente
+1420,Nazaret Mayol Carballo,50,Masculino,Pueblo Libre,Nuevo
+1421,Abel Guzmán Zurita,62,Femenino,San Miguel,Nuevo
+1422,Eustaquio Rosell Conesa,49,Femenino,Miraflores,Nuevo
+1423,Piedad Gomis Aroca,60,Masculino,Pueblo Libre,VIP
+1424,Raúl Villalonga-Asensio,21,Femenino,La Molina,Nuevo
+1425,Ana Arranz Jover,30,Femenino,San Isidro,Nuevo
+1426,Asunción Fernandez Santamaria,29,Masculino,Barranco,Frecuente
+1427,Eusebio Rivero-Palomino,67,Femenino,Surco,Nuevo
+1428,Máxima Montenegro-Manzano,31,Masculino,San Isidro,Frecuente
+1429,Alicia Claudia Iborra Quevedo,25,Masculino,San Miguel,Nuevo
+1430,Óscar Aragonés Carrión,45,Masculino,San Borja,Nuevo
+1431,Enrique Piña Campo,25,Masculino,Lince,Frecuente
+1432,Adriana Romeu Agullo,20,Femenino,Surco,VIP
+1433,Heliodoro Sotelo Fonseca,63,Femenino,San Isidro,VIP
+1434,Bernarda del Fiol,35,Masculino,Lince,Frecuente
+1435,María Ángeles Feliu Egea,60,Femenino,San Miguel,Nuevo
+1436,Leandra Iniesta,19,Masculino,Jesús María,Nuevo
+1437,Primitivo Segarra Casado,42,Masculino,Barranco,VIP
+1438,Crescencia Melero Ledesma,27,Femenino,Lince,Frecuente
+1439,Irene Sandoval,45,Femenino,San Miguel,Nuevo
+1440,Belen Pascual Martín,64,Femenino,Surco,Nuevo
+1441,Rafael Álvaro,38,Masculino,San Isidro,Frecuente
+1442,Goyo del Gonzalez,46,Femenino,Pueblo Libre,Nuevo
+1443,Bonifacio Río Benavent,69,Femenino,San Borja,VIP
+1444,Edu Celestino Cañellas Vázquez,40,Masculino,La Molina,Nuevo
+1445,Juan Luis Andreu,34,Femenino,Pueblo Libre,Nuevo
+1446,Plinio Sola Angulo,59,Masculino,La Molina,Nuevo
+1447,Camilo Calvet Garmendia,68,Masculino,Miraflores,VIP
+1448,Leoncio Piñol-Pedrosa,31,Masculino,Miraflores,Nuevo
+1449,Ramón de Villalobos,51,Femenino,Pueblo Libre,VIP
+1450,José Diez,69,Masculino,Miraflores,VIP
+1451,Samu Badía,18,Femenino,Surco,Nuevo
+1452,Loreto Carrera Valero,48,Femenino,Miraflores,Nuevo
+1453,David Pellicer Fuentes,53,Femenino,Jesús María,Nuevo
+1454,Felipe Viñas Neira,18,Femenino,La Molina,VIP
+1455,Pastor de Almeida,66,Masculino,Barranco,Nuevo
+1456,Rafael Alfonso Castro,36,Masculino,Barranco,VIP
+1457,Amanda Azahara Nadal Bustos,43,Masculino,San Borja,Frecuente
+1458,Josué Sánchez Vega,41,Femenino,Barranco,Nuevo
+1459,Ale Marti Cobo,54,Femenino,La Molina,Frecuente
+1460,Zaira Peral,70,Femenino,Jesús María,Frecuente
+1461,Guadalupe Iglesia Monreal,25,Femenino,Jesús María,Frecuente
+1462,Carmela Bermúdez Arribas,59,Femenino,San Isidro,Frecuente
+1463,Nuria Reguera Cerezo,35,Femenino,Jesús María,Nuevo
+1464,Felisa Solé Samper,54,Masculino,Pueblo Libre,Nuevo
+1465,Leyre Valero-Nuñez,68,Masculino,San Isidro,Nuevo
+1466,Remedios Gallego Cánovas,50,Masculino,Barranco,VIP
+1467,Santiago Loreto Ribera Segovia,29,Masculino,Surco,Nuevo
+1468,Loreto del Sanabria,19,Femenino,Miraflores,Nuevo
+1469,Florencio Font-Aroca,26,Femenino,Surco,Nuevo
+1470,Valeria Salas Aroca,27,Femenino,San Isidro,Nuevo
+1471,Alicia Hervás Hervás,58,Masculino,Miraflores,Nuevo
+1472,Rafaela Vélez Frutos,66,Femenino,Lince,Nuevo
+1473,Azahara Caballero Estevez,23,Masculino,Jesús María,Nuevo
+1474,Benjamín Izaguirre Jurado,33,Femenino,San Miguel,Nuevo
+1475,Claudio Viana-Trillo,50,Masculino,San Isidro,Nuevo
+1476,Américo Franco Luz,69,Masculino,San Isidro,Frecuente
+1477,Jose Angel Avilés Fernandez,45,Masculino,San Borja,Nuevo
+1478,Demetrio de Acero,35,Masculino,La Molina,Frecuente
+1479,Fabricio Ibáñez-Galván,53,Masculino,Pueblo Libre,Nuevo
+1480,Wilfredo Bello Vergara,30,Femenino,Pueblo Libre,Nuevo
+1481,Lina Baeza Gutiérrez,33,Femenino,Pueblo Libre,VIP
+1482,José Antonio Piñeiro-Villalonga,26,Femenino,Pueblo Libre,Frecuente
+1483,Roberto Ávila Pallarès,38,Masculino,Surco,Frecuente
+1484,Fito Giralt,30,Femenino,Pueblo Libre,Nuevo
+1485,Mayte Castañeda Cal,28,Masculino,Pueblo Libre,VIP
+1486,Graciela Pujadas Abella,28,Femenino,La Molina,Nuevo
+1487,Guillermo Arribas Manzanares,56,Masculino,Miraflores,VIP
+1488,Emiliana Sacristán-Badía,69,Masculino,San Isidro,Frecuente
+1489,Luciana Alcántara,33,Femenino,Pueblo Libre,Frecuente
+1490,Aristides del Zamora,54,Masculino,San Miguel,VIP
+1491,Che Ortega,19,Masculino,La Molina,Frecuente
+1492,Santiago del Alonso,23,Femenino,San Miguel,Nuevo
+1493,Moisés Pozuelo,45,Masculino,Barranco,Nuevo
+1494,Aurora Tenorio Vila,25,Femenino,Barranco,Nuevo
+1495,Reynaldo Giner Pardo,40,Masculino,Surco,Nuevo
+1496,Eladio Sans-Alvarez,20,Femenino,La Molina,Frecuente
+1497,Adán Yuste Catalá,53,Masculino,San Miguel,Nuevo
+1498,Evangelina Alegria Mateos,33,Femenino,Barranco,Frecuente
+1499,Teresita del Barrios,28,Femenino,San Miguel,Nuevo
+1500,Máximo Daza-Ramírez,55,Femenino,La Molina,Frecuente
+1501,Carla Fernandez Codina,28,Femenino,San Isidro,Frecuente
+1502,Adela Bravo Giménez,49,Masculino,Pueblo Libre,VIP
+1503,Loreto Blanes Díez,53,Masculino,San Borja,Nuevo
+1504,Ildefonso del Bastida,22,Femenino,San Miguel,VIP
+1505,Judith Angelina Cobos Ortiz,61,Femenino,La Molina,VIP
+1506,Odalis Orozco Olivé,36,Femenino,Barranco,Frecuente
+1507,Angelita Eulalia Asensio Carreño,64,Femenino,Lince,Nuevo
+1508,Asdrubal del Toro,60,Masculino,Barranco,Nuevo
+1509,Pastor Espejo Alcaraz,30,Femenino,Lince,Frecuente
+1510,Manu Marquez Tomé,58,Masculino,San Borja,VIP
+1511,Rómulo Villena Revilla,23,Masculino,Barranco,Frecuente
+1512,Amanda Riquelme Báez,21,Femenino,San Isidro,Nuevo
+1513,Lara Bas Sabater,48,Masculino,San Miguel,Nuevo
+1514,Paca Ibañez Castells,25,Femenino,Lince,Nuevo
+1515,Constanza Cuevas,48,Femenino,Lince,Nuevo
+1516,Óscar Gisbert Vargas,27,Masculino,Lince,Nuevo
+1517,Leoncio Cárdenas Salinas,24,Masculino,Lince,Frecuente
+1518,Plinio Merino-Solana,68,Masculino,Pueblo Libre,Nuevo
+1519,Artemio Alegria Portero,21,Femenino,San Borja,Frecuente
+1520,Bruno Ferrer Velasco,64,Femenino,San Miguel,Nuevo
+1521,Marianela Clavero,46,Masculino,Surco,Frecuente
+1522,Ángeles Guerrero,33,Masculino,Surco,VIP
+1523,Wálter Rey Mateo,25,Femenino,Pueblo Libre,Nuevo
+1524,Gilberto Barón-Valencia,39,Masculino,San Miguel,Frecuente
+1525,Sebastián Aguirre Peinado,61,Femenino,Lince,VIP
+1526,Emma Arroyo Olivera,39,Femenino,San Isidro,VIP
+1527,Hilario Arsenio Malo Valenciano,28,Femenino,Pueblo Libre,Frecuente
+1528,Luciano del Lara,64,Masculino,Jesús María,Frecuente
+1529,Nicolasa Cobo Flores,67,Femenino,La Molina,Nuevo
+1530,Ruth Castañeda Murcia,66,Masculino,Lince,Nuevo
+1531,Celso Agustín Pol,50,Femenino,Jesús María,Frecuente
+1532,Yaiza Flores,26,Masculino,San Isidro,Nuevo
+1533,Martin Cueto González,46,Femenino,Jesús María,Frecuente
+1534,Delfina Boada Marín,65,Femenino,Miraflores,VIP
+1535,Nicodemo Victor Cuéllar Cabrero,36,Masculino,San Miguel,Frecuente
+1536,Amado Manso Urrutia,37,Masculino,Miraflores,Frecuente
+1537,Dionisio Páez-Amat,63,Masculino,San Isidro,VIP
+1538,Gertrudis Evangelina Somoza Ferrández,54,Masculino,La Molina,Frecuente
+1539,Jose Arregui Calderón,67,Femenino,Pueblo Libre,VIP
+1540,Ruy Gallart-Franch,36,Femenino,Pueblo Libre,Nuevo
+1541,Danilo Cantero Ferrer,20,Femenino,La Molina,Frecuente
+1542,María José Villegas Alemán,20,Femenino,Jesús María,Nuevo
+1543,Trini del Revilla,53,Femenino,Miraflores,Nuevo
+1544,Inés Varela Quintanilla,48,Femenino,San Borja,Frecuente
+1545,Raimundo del Castro,57,Femenino,San Miguel,Frecuente
+1546,Eva María Montoya Morales,62,Femenino,Lince,VIP
+1547,Micaela Guerrero Guitart,63,Masculino,San Isidro,VIP
+1548,Eugenia Arranz Fabra,31,Femenino,La Molina,Nuevo
+1549,Saturnino Santamaria Reig,58,Femenino,San Miguel,Frecuente
+1550,Delia Gallart Calleja,31,Masculino,Lince,Nuevo
+1551,Rubén Arcos,24,Masculino,Lince,Nuevo
+1552,Feliciano Cañizares-Solano,65,Masculino,Barranco,VIP
+1553,Silvia Caparrós-Luque,52,Femenino,San Miguel,Frecuente
+1554,Clara Guijarro Ugarte,34,Masculino,San Borja,Nuevo
+1555,Dora Tejero Pedrosa,60,Femenino,Barranco,VIP
+1556,Paulino Farré Castelló,33,Femenino,Surco,Nuevo
+1557,Julián Luján Diaz,40,Masculino,Miraflores,Nuevo
+1558,Isidoro Toni Verdejo Camps,33,Masculino,Lince,Nuevo
+1559,Néstor Mayo Cornejo,68,Femenino,San Miguel,Nuevo
+1560,Alex Espejo Francisco,25,Femenino,Barranco,Nuevo
+1561,Angelita del Benavent,39,Masculino,Barranco,Frecuente
+1562,Catalina Fonseca Ángel,51,Masculino,San Isidro,Nuevo
+1563,Salomón Villena Tur,26,Masculino,Miraflores,Frecuente
+1564,Felipe Francisco Corral,18,Femenino,San Isidro,VIP
+1565,Chus del Ureña,56,Femenino,San Isidro,Frecuente
+1566,Bonifacio del Delgado,36,Femenino,San Borja,Nuevo
+1567,Maricela Bauzà Morell,34,Masculino,Jesús María,Nuevo
+1568,Modesta Colomer Sedano,33,Masculino,Lince,Frecuente
+1569,Tamara Blasco Catalán,23,Femenino,Barranco,Frecuente
+1570,Luciana Valenzuela,70,Femenino,Surco,Frecuente
+1571,Brunilda Nogués,37,Masculino,San Isidro,Frecuente
+1572,Francisco Jose Roura Osuna,28,Masculino,La Molina,Frecuente
+1573,Carmelo Torre Diéguez,62,Masculino,San Isidro,Frecuente
+1574,Rodolfo Hoz Mayoral,45,Femenino,San Miguel,Frecuente
+1575,Carmina del Guardiola,41,Masculino,San Borja,VIP
+1576,Agustina Barón Feliu,22,Femenino,La Molina,Nuevo
+1577,Marcelo Morata Alemán,33,Femenino,Barranco,Nuevo
+1578,Andrés Felipe Becerra Valenciano,21,Masculino,Pueblo Libre,Nuevo
+1579,Guiomar Sanabria Madrigal,45,Femenino,San Miguel,Nuevo
+1580,Balduino Pelayo Roldan,25,Masculino,La Molina,Frecuente
+1581,Manuel Segovia,51,Masculino,San Isidro,Nuevo
+1582,Flavio Bernal Torres,31,Femenino,Surco,Nuevo
+1583,Fátima Moraleda-Águila,35,Femenino,Lince,Nuevo
+1584,Flor Peinado Redondo,29,Masculino,Jesús María,Nuevo
+1585,Marcelino Blanch Rovira,24,Masculino,Miraflores,Frecuente
+1586,Cintia Ale Pujadas Catalá,48,Masculino,San Miguel,Frecuente
+1587,Amaro de Rivera,52,Femenino,Barranco,Nuevo
+1588,Julie Quintanilla-Cabrera,30,Masculino,Miraflores,Nuevo
+1589,Angélica Brígida Luís Zorrilla,35,Masculino,Surco,Nuevo
+1590,Armando Ruiz-Aragonés,64,Masculino,San Miguel,VIP
+1591,Candelaria Ortega-Catalán,66,Femenino,Barranco,Frecuente
+1592,Florinda Borrego Fonseca,31,Masculino,Surco,Nuevo
+1593,Tere Corbacho-Guillen,58,Masculino,Jesús María,Nuevo
+1594,Rosaura Santana Pina,41,Masculino,San Isidro,Nuevo
+1595,Julieta Carvajal,58,Masculino,La Molina,Nuevo
+1596,Cloe del Arnaiz,59,Masculino,La Molina,Nuevo
+1597,Dora Porta-Cantero,54,Masculino,Lince,Nuevo
+1598,Ascensión Raquel Ortega Hervás,51,Femenino,San Borja,Frecuente
+1599,Baudelio Múñiz,22,Femenino,Miraflores,Frecuente
+1600,Eduardo Moles,23,Masculino,Pueblo Libre,Nuevo
+1601,Celso Amado Gallego Peralta,43,Masculino,Lince,VIP
+1602,Jorge Olivares Bautista,26,Femenino,Jesús María,Nuevo
+1603,Angelina de Caro,48,Masculino,San Miguel,Nuevo
+1604,Tomás Llobet Rojas,62,Masculino,San Miguel,Frecuente
+1605,Emigdio Jacobo Bertrán Elías,26,Masculino,Pueblo Libre,Nuevo
+1606,Estela Barco-Plana,43,Femenino,San Borja,Nuevo
+1607,Irene María José Villena Colom,24,Masculino,San Isidro,Nuevo
+1608,Paola Morera Alcalde,40,Masculino,Jesús María,Nuevo
+1609,Paca Jaume Sans,39,Masculino,La Molina,Nuevo
+1610,Adrián Porcel-Cortina,51,Femenino,Surco,Frecuente
+1611,Adelaida del Uriarte,53,Masculino,San Miguel,Nuevo
+1612,Haydée Barrios Aguiló,53,Femenino,San Miguel,Frecuente
+1613,Román Sarabia Tomé,27,Femenino,San Isidro,Nuevo
+1614,Socorro Anguita Pujadas,50,Femenino,Barranco,Frecuente
+1615,Diego Aliaga-Chaves,67,Masculino,San Borja,VIP
+1616,Wálter Aguilar-Lozano,64,Masculino,Surco,Frecuente
+1617,Vinicio del Izaguirre,65,Masculino,San Borja,Nuevo
+1618,Nadia Rosalina Mata Tomás,54,Masculino,Pueblo Libre,Nuevo
+1619,Remedios del Mora,42,Femenino,San Isidro,Frecuente
+1620,Concha Baena Sanchez,51,Femenino,Lince,Frecuente
+1621,Luis Ángel Pablo Marí,41,Masculino,Lince,Nuevo
+1622,Cruz Royo Baeza,31,Femenino,La Molina,Frecuente
+1623,José Ángel Sacristán Bárcena,23,Femenino,Jesús María,Nuevo
+1624,Pili Quiroga Blanco,65,Femenino,Jesús María,Nuevo
+1625,Aurora Olivia Paredes Buendía,49,Masculino,Jesús María,Frecuente
+1626,Marita Molins Plaza,52,Masculino,La Molina,Nuevo
+1627,Dolores Arellano Melero,23,Femenino,Barranco,Nuevo
+1628,Paz Carmina Angulo Pol,64,Femenino,Surco,Frecuente
+1629,Reyes Lloret Bejarano,66,Femenino,Surco,Nuevo
+1630,Erasmo Batalla Páez,23,Femenino,Jesús María,Nuevo
+1631,Consuelo Sandra Perez Salinas,21,Masculino,Pueblo Libre,Nuevo
+1632,Onofre Barreda-Vila,54,Femenino,Jesús María,Nuevo
+1633,Sancho Carro-Castellanos,50,Femenino,San Miguel,VIP
+1634,Andrés Felipe Artigas Molins,58,Masculino,Surco,Frecuente
+1635,Agustín Ramiro Sedano Mendoza,65,Masculino,San Isidro,Nuevo
+1636,Olimpia Aznar,68,Masculino,Barranco,Frecuente
+1637,Cleto Benavent Posada,31,Femenino,Barranco,Nuevo
+1638,Buenaventura Segura Bernad,30,Masculino,Lince,Frecuente
+1639,Ileana Barceló Barceló,39,Masculino,Lince,Frecuente
+1640,Andrea Alberto,55,Femenino,San Miguel,VIP
+1641,María Pilar Dávila Frías,68,Femenino,Miraflores,Frecuente
+1642,Maribel Nicolás Villanueva,22,Femenino,San Miguel,VIP
+1643,Alberto Badía Acero,27,Femenino,Surco,VIP
+1644,Maximiliano Toro Sobrino,29,Femenino,La Molina,VIP
+1645,Patricio Ramírez-Viana,57,Masculino,Lince,VIP
+1646,Erasmo Catalán Abellán,54,Masculino,Jesús María,Nuevo
+1647,Lilia de Pascual,51,Femenino,San Isidro,Nuevo
+1648,María Belén de Higueras,39,Femenino,San Isidro,Frecuente
+1649,Samanta Anastasia Pareja Exposito,38,Masculino,Barranco,Nuevo
+1650,Brígida Lozano,27,Masculino,Miraflores,Frecuente
+1651,Emilio del Gonzalo,23,Masculino,San Miguel,Nuevo
+1652,Jose Ignacio Duilio Calzada Gallardo,69,Masculino,Lince,VIP
+1653,Rosario Páez-Ros,67,Masculino,Surco,Frecuente
+1654,Constanza Vergara Tudela,39,Femenino,Lince,Nuevo
+1655,Pastor Azorin Capdevila,22,Masculino,Jesús María,Nuevo
+1656,José Luis Cámara Azcona,42,Masculino,San Borja,Frecuente
+1657,Eugenia Izquierdo,35,Femenino,Lince,Frecuente
+1658,Elisabet Benavent Losada,70,Masculino,Lince,Frecuente
+1659,Balduino Somoza Samper,32,Masculino,Barranco,VIP
+1660,Gema Yuste,25,Masculino,Surco,Nuevo
+1661,Baldomero Arroyo Izaguirre,42,Femenino,Lince,VIP
+1662,Noé de Sanmartín,66,Masculino,Barranco,Nuevo
+1663,Curro Alberto Montenegro Vergara,20,Masculino,San Isidro,Nuevo
+1664,Guillermo Aller Rubio,46,Masculino,Barranco,VIP
+1665,Ariadna Reig Cabeza,28,Femenino,Pueblo Libre,Nuevo
+1666,Sarita Comas-Piñol,43,Femenino,Pueblo Libre,Frecuente
+1667,Leonel Cosme Puig Agustín,44,Femenino,Miraflores,Frecuente
+1668,Josefina Guardia Carrera,39,Masculino,San Isidro,Frecuente
+1669,Emigdio Puerta Pedraza,51,Masculino,Barranco,Frecuente
+1670,Amanda Colom Marcos,51,Femenino,Surco,Nuevo
+1671,Consuelo Torrens Benítez,46,Femenino,Miraflores,Frecuente
+1672,Lourdes Márquez Sáenz,44,Masculino,Jesús María,VIP
+1673,Jessica Marcos Ramis,58,Femenino,Jesús María,Nuevo
+1674,Mateo Romeu Plaza,63,Femenino,Lince,Nuevo
+1675,Gastón Ballesteros Gascón,34,Masculino,San Miguel,Nuevo
+1676,Norberto Camps Espinosa,19,Masculino,Miraflores,Nuevo
+1677,Adolfo Arrieta Pino,49,Masculino,La Molina,Nuevo
+1678,Pepita Roda Galiano,21,Femenino,Lince,Nuevo
+1679,Calixta Landa Garay,25,Femenino,La Molina,Nuevo
+1680,Omar Duarte,47,Femenino,Jesús María,Nuevo
+1681,Sigfrido Soler Sancho,28,Masculino,Jesús María,Nuevo
+1682,Ambrosio Blasco Doménech,62,Femenino,San Borja,VIP
+1683,Chita Arnaiz Busquets,48,Masculino,Barranco,Frecuente
+1684,Marisa del Chico,19,Femenino,San Borja,Nuevo
+1685,Constanza Torralba Riba,36,Femenino,Miraflores,Frecuente
+1686,Cintia Medina Escamilla,18,Masculino,San Isidro,Nuevo
+1687,Florencio Toledo Santamaría,18,Masculino,La Molina,Frecuente
+1688,Candelas de Rodrigo,63,Femenino,Lince,Nuevo
+1689,Nuria Cuervo Valcárcel,23,Femenino,Miraflores,Frecuente
+1690,Matilde Muñoz Ros,55,Masculino,San Isidro,Nuevo
+1691,Constanza Tania Alvarado Ferrando,66,Masculino,Lince,Nuevo
+1692,Pilar Rocamora-Palomino,67,Masculino,Barranco,Nuevo
+1693,Nadia Ayllón Vall,55,Masculino,San Isidro,Frecuente
+1694,Amaya Andres-Calderon,56,Masculino,San Borja,VIP
+1695,Silvia Emelina Ferrándiz Esparza,70,Masculino,San Borja,VIP
+1696,Ignacio Riba Amor,58,Masculino,Barranco,Nuevo
+1697,Carmelita Contreras,38,Masculino,Lince,Nuevo
+1698,Arsenio Losada Pera,41,Masculino,Lince,Nuevo
+1699,Adolfo Álvaro Planas,29,Femenino,Lince,Frecuente
+1700,Venceslás Macias Cabezas,51,Masculino,San Isidro,Nuevo
+1701,Apolonia Miralles Cabrera,25,Masculino,Barranco,Nuevo
+1702,Marcial Sigfrido Garrido Expósito,20,Femenino,La Molina,Nuevo
+1703,Rosalía de Vergara,36,Femenino,Pueblo Libre,VIP
+1704,Buenaventura de Riba,67,Femenino,San Miguel,Nuevo
+1705,Íñigo Cipriano Pla Marco,55,Masculino,San Borja,Nuevo
+1706,Eloísa Flores,50,Femenino,Pueblo Libre,Frecuente
+1707,Javi Rebollo Galvez,36,Femenino,La Molina,Frecuente
+1708,Mariano Sancho Valderrama,60,Masculino,Pueblo Libre,Nuevo
+1709,Nazaret Cuenca Gallego,68,Masculino,Lince,Nuevo
+1710,Plácido Barón Seco,44,Masculino,San Miguel,Frecuente
+1711,Abigaíl Frías,64,Femenino,Miraflores,VIP
+1712,Begoña Pons-Amores,65,Femenino,San Miguel,Frecuente
+1713,Urbano Aznar Gascón,31,Femenino,San Isidro,VIP
+1714,Candelario Pelayo García,20,Masculino,Jesús María,Nuevo
+1715,Demetrio Gras Sosa,46,Femenino,San Borja,Nuevo
+1716,Leonel Osorio Hidalgo,38,Femenino,Lince,Nuevo
+1717,Feliciana Contreras,56,Masculino,Jesús María,Frecuente
+1718,Severino Ferreras Bustos,20,Masculino,Pueblo Libre,Frecuente
+1719,Dulce Pagès Lladó,40,Masculino,San Miguel,Nuevo
+1720,Clemente Tomas-Pla,19,Femenino,San Isidro,Frecuente
+1721,Mamen Malo Guerrero,48,Masculino,La Molina,Frecuente
+1722,Gregorio Sainz Priego,27,Masculino,San Miguel,Nuevo
+1723,Remigio Reyes Rosell Pino,37,Masculino,San Borja,Frecuente
+1724,Maxi de Sarmiento,28,Masculino,Miraflores,Frecuente
+1725,Evangelina Tejera-Zorrilla,56,Femenino,Jesús María,Nuevo
+1726,Etelvina Luján Berenguer,45,Masculino,San Borja,Frecuente
+1727,Anita Noguera Molina,22,Femenino,Jesús María,VIP
+1728,Rubén Arranz Díaz,38,Femenino,Barranco,Frecuente
+1729,Agustín Díez Barberá,64,Masculino,San Borja,Frecuente
+1730,Fanny Camacho Bayo,61,Masculino,San Miguel,Nuevo
+1731,María Belén de Marquez,38,Femenino,La Molina,Nuevo
+1732,Ezequiel Jáuregui-Blázquez,33,Femenino,San Miguel,Frecuente
+1733,Melania Agustín Sotelo,41,Femenino,San Miguel,Nuevo
+1734,Emilia Palau-Olmo,41,Femenino,San Isidro,VIP
+1735,Nuria de Gallart,48,Femenino,San Isidro,Frecuente
+1736,Julieta Pomares-Ibáñez,20,Masculino,Miraflores,Nuevo
+1737,Cirino Cobo Rodriguez,44,Masculino,Pueblo Libre,Nuevo
+1738,Noé Sergio Tomé Grande,33,Femenino,Surco,Frecuente
+1739,Pánfilo Ildefonso Echeverría Asensio,37,Masculino,La Molina,Nuevo
+1740,Ileana Mendoza Ledesma,64,Masculino,Barranco,Frecuente
+1741,Celia Caballero Calatayud,42,Femenino,Miraflores,Nuevo
+1742,Jose Francisco Bolaños Moraleda,41,Masculino,Surco,VIP
+1743,Teo Jurado Mur,36,Femenino,Pueblo Libre,Nuevo
+1744,Máximo Montaña Sureda,21,Masculino,Pueblo Libre,Nuevo
+1745,Chucho Gabaldón Mate,26,Masculino,San Isidro,Frecuente
+1746,Judith Valbuena Rovira,48,Femenino,Lince,Nuevo
+1747,Buenaventura Narváez Tormo,51,Masculino,San Miguel,Nuevo
+1748,Damián del Cisneros,37,Femenino,San Isidro,Nuevo
+1749,Máximo Fuster Blanco,61,Femenino,Surco,Nuevo
+1750,Mohamed Quirós-Villalba,30,Masculino,Pueblo Libre,Nuevo
+1751,Yago Mata Carretero,54,Masculino,Lince,Nuevo
+1752,Remigio Vicens Roma,65,Femenino,Miraflores,Nuevo
+1753,Anna Villegas Iborra,50,Femenino,Miraflores,Nuevo
+1754,Eric Xavier Malo Domínguez,32,Masculino,San Isidro,Nuevo
+1755,Gaspar de Monreal,58,Femenino,San Miguel,Nuevo
+1756,Amor Cuesta Robles,57,Masculino,Surco,Frecuente
+1757,Noelia Malena Arregui Castejón,68,Femenino,Miraflores,Frecuente
+1758,Moisés Rius Expósito,37,Masculino,Barranco,Nuevo
+1759,Narciso Mur Cortés,54,Masculino,San Borja,Nuevo
+1760,Evita Merche Verdejo Arnaiz,19,Masculino,La Molina,Nuevo
+1761,Luisina Fuster Téllez,46,Femenino,Surco,Nuevo
+1762,Candelas Cerezo-Bou,66,Masculino,Surco,Nuevo
+1763,Rosario Ródenas Pedrero,50,Femenino,Jesús María,Frecuente
+1764,Ramiro Calisto Fabra Calderon,49,Masculino,Surco,Frecuente
+1765,Zacarías del Español,55,Masculino,San Miguel,VIP
+1766,Román Guardiola Sanchez,60,Femenino,Miraflores,Nuevo
+1767,África Vilanova Roda,21,Femenino,Surco,Frecuente
+1768,Caridad de Comas,43,Masculino,Surco,Nuevo
+1769,Francisco Javier Fuente Avilés,22,Masculino,La Molina,Frecuente
+1770,María José Calderon,66,Masculino,Pueblo Libre,VIP
+1771,Victoriano Figuerola Berenguer,39,Femenino,Surco,Frecuente
+1772,Belén Donoso Falcó,25,Masculino,Miraflores,Nuevo
+1773,Paola Tello Garay,45,Masculino,Jesús María,Nuevo
+1774,Judith Cruz Morata,44,Masculino,Pueblo Libre,Frecuente
+1775,Bernarda Beltran Corbacho,66,Femenino,Pueblo Libre,Nuevo
+1776,Jordana Pedraza Meléndez,22,Masculino,Miraflores,Frecuente
+1777,Felix del Ferrando,57,Masculino,Pueblo Libre,Nuevo
+1778,Alejandro Barreda Garzón,39,Masculino,Barranco,Nuevo
+1779,Macario Campos Carvajal,28,Masculino,Barranco,Nuevo
+1780,Segismundo Arranz Sáez,54,Femenino,La Molina,Nuevo
+1781,Yaiza Jurado,61,Femenino,Barranco,Frecuente
+1782,Norberto Leopoldo Ramírez Arroyo,18,Masculino,Barranco,Nuevo
+1783,Isidoro de Villalba,37,Masculino,Miraflores,Frecuente
+1784,Virgilio Amado Batlle Crespo,31,Femenino,Barranco,Nuevo
+1785,Samanta Ferrándiz Collado,60,Masculino,Miraflores,Nuevo
+1786,Adora del Ponce,20,Femenino,Surco,Nuevo
+1787,Fabiana Molina Royo,41,Masculino,Jesús María,Nuevo
+1788,Nidia Rincón Porta,30,Femenino,Pueblo Libre,Frecuente
+1789,Santiago Ortiz Pizarro,44,Femenino,San Miguel,Nuevo
+1790,Osvaldo Gallego-Jara,54,Masculino,Jesús María,Nuevo
+1791,Marcelo del Yuste,35,Masculino,Jesús María,Nuevo
+1792,Paulina Toro Bermudez,32,Masculino,Barranco,Nuevo
+1793,Olimpia Sarmiento-Echevarría,68,Masculino,Lince,Frecuente
+1794,Timoteo Sacristán Romero,67,Femenino,Surco,Nuevo
+1795,Ani Garzón Téllez,37,Masculino,La Molina,Nuevo
+1796,Paco Cruz-Valentín,31,Femenino,Surco,Nuevo
+1797,Alejandra Ugarte Arnal,31,Femenino,Surco,Nuevo
+1798,Modesto Ruiz Mínguez,19,Masculino,Jesús María,Nuevo
+1799,Emiliano Pinedo Ochoa,21,Femenino,San Miguel,VIP
+1800,Rosalva Ariza Montesinos,30,Femenino,Lince,Frecuente
+1801,Olalla Franco Castillo,25,Masculino,La Molina,Frecuente
+1802,Dimas del Piñol,45,Femenino,Miraflores,Nuevo
+1803,Candelas Miralles Palacios,36,Femenino,Jesús María,Nuevo
+1804,Gustavo Alonso Martorell Moreno,29,Masculino,Pueblo Libre,Frecuente
+1805,León Aguiló,28,Masculino,Jesús María,Frecuente
+1806,Aureliano de Lladó,60,Masculino,La Molina,Frecuente
+1807,Martina Peña Abascal,26,Femenino,San Borja,Frecuente
+1808,René Pérez Tur,69,Femenino,Miraflores,Nuevo
+1809,Chus Yuste Roldan,29,Femenino,La Molina,Nuevo
+1810,María León,64,Masculino,Pueblo Libre,Nuevo
+1811,Félix Montalbán,31,Masculino,La Molina,Frecuente
+1812,Elpidio Perales,64,Masculino,San Isidro,Frecuente
+1813,Narcisa Torrent Peláez,33,Femenino,Pueblo Libre,Nuevo
+1814,Adora Cruz Navarro,68,Femenino,Jesús María,VIP
+1815,Juanito Cid Tejedor,37,Masculino,La Molina,Nuevo
+1816,Victor Manuel Albero Jove,26,Masculino,Jesús María,Nuevo
+1817,Gerónimo Figuerola Lillo,39,Femenino,Surco,Nuevo
+1818,Laura Zamora Burgos,35,Masculino,Surco,Nuevo
+1819,Eugenia Navarrete,34,Masculino,La Molina,Nuevo
+1820,Sebastian Pastor Prat Miranda,64,Masculino,La Molina,Frecuente
+1821,Palmira Bienvenida Román Mercader,29,Femenino,San Miguel,Nuevo
+1822,Elías de Pedrosa,36,Femenino,Pueblo Libre,Frecuente
+1823,Francisca del Piñeiro,60,Masculino,San Borja,Frecuente
+1824,Galo Cuevas Bonet,19,Masculino,San Borja,Nuevo
+1825,Josefina de Torralba,30,Femenino,La Molina,Nuevo
+1826,Primitiva Sobrino,44,Femenino,Lince,Nuevo
+1827,Emperatriz del Vazquez,22,Femenino,Jesús María,Nuevo
+1828,Miguel Ángel Roldán Domingo,36,Femenino,San Borja,Frecuente
+1829,Cecilia Romero Clavero,18,Femenino,San Isidro,Nuevo
+1830,María Carmen Torrents Juárez,31,Femenino,Jesús María,Nuevo
+1831,María Luisa Mercader,53,Masculino,Surco,VIP
+1832,Aura Artigas Girona,63,Femenino,San Borja,Nuevo
+1833,Raquel Bonilla Alcalde,60,Femenino,La Molina,Nuevo
+1834,Josefa Jara Galan,49,Masculino,Barranco,VIP
+1835,Agustina María Pilar Tejero Campos,68,Masculino,San Borja,Nuevo
+1836,Samu Olmo Mesa,19,Masculino,Miraflores,Nuevo
+1837,Ángel Gimenez Pera,38,Masculino,San Borja,Frecuente
+1838,Álvaro Solera Revilla,31,Masculino,La Molina,Frecuente
+1839,Ildefonso Bermejo Fabregat,63,Femenino,Pueblo Libre,Frecuente
+1840,Yésica Villanueva Vélez,20,Femenino,La Molina,Frecuente
+1841,Salomé Hurtado-Coello,34,Masculino,Pueblo Libre,Nuevo
+1842,Estefanía Maestre,57,Masculino,San Isidro,VIP
+1843,Eustaquio Macías Rios,68,Femenino,San Borja,Frecuente
+1844,Benjamín Crespi Tenorio,21,Femenino,La Molina,Frecuente
+1845,Baltasar Francisco Cal Verdugo,57,Masculino,Barranco,Nuevo
+1846,Íngrid Barba Maestre,37,Masculino,Jesús María,Frecuente
+1847,Juana de Nogueira,57,Masculino,La Molina,Nuevo
+1848,Tadeo Jáuregui Corral,30,Femenino,San Isidro,Nuevo
+1849,Juan Carlos Asenjo-Bastida,23,Masculino,San Borja,Frecuente
+1850,Tecla Río Tejero,29,Femenino,Surco,Nuevo
+1851,Danilo Bejarano,63,Femenino,Barranco,Frecuente
+1852,Juliana Adriana Pintor Verdú,67,Femenino,Jesús María,Nuevo
+1853,Reinaldo Revilla,54,Femenino,Miraflores,Frecuente
+1854,Ezequiel Bernardo Angulo Morán,38,Femenino,Jesús María,Nuevo
+1855,Cristian Santamaría Prada,61,Femenino,San Borja,Nuevo
+1856,Anastasia Acevedo Mendoza,19,Femenino,Pueblo Libre,Frecuente
+1857,Ariel Lasa Chaves,49,Femenino,San Isidro,Frecuente
+1858,Marisa Pomares Córdoba,52,Masculino,Jesús María,Frecuente
+1859,Bibiana de Borja,62,Masculino,San Miguel,Nuevo
+1860,Américo Cabezas,21,Femenino,Lince,Nuevo
+1861,Graciana Prat Cortina,52,Femenino,Jesús María,Nuevo
+1862,Wálter Soria Gelabert,45,Masculino,Pueblo Libre,Frecuente
+1863,Cayetana Mendoza Reguera,66,Masculino,San Miguel,Nuevo
+1864,Teodora Campos Losa,52,Masculino,San Borja,Nuevo
+1865,Vinicio Parra Belda,36,Femenino,Jesús María,Frecuente
+1866,Edmundo Nicolás Landa,59,Masculino,Barranco,Nuevo
+1867,Celia Ruth Núñez Guitart,24,Femenino,Barranco,Nuevo
+1868,Marciano Jara,41,Masculino,Barranco,Frecuente
+1869,Socorro Cantón Casares,63,Masculino,La Molina,Nuevo
+1870,Xiomara Ávila Oliver,58,Femenino,La Molina,Nuevo
+1871,Ramón Montoya Díaz,19,Masculino,Jesús María,Frecuente
+1872,Olivia Roig León,70,Femenino,San Borja,Nuevo
+1873,Roberta del Carreras,21,Femenino,Miraflores,Nuevo
+1874,Julio César Toro Barrera,50,Masculino,Miraflores,VIP
+1875,Diana Olmedo-Puente,21,Femenino,Pueblo Libre,Nuevo
+1876,Eustaquio Rico Urrutia,25,Femenino,La Molina,Nuevo
+1877,Fidela Lupe Solano Pardo,39,Masculino,Jesús María,Frecuente
+1878,Sergio Lledó Acuña,41,Femenino,Lince,Nuevo
+1879,Marco Marc Padilla Lillo,32,Femenino,San Miguel,Nuevo
+1880,Arcelia Valderrama,62,Masculino,San Miguel,Nuevo
+1881,Amílcar Daza Cabrero,32,Masculino,Jesús María,Frecuente
+1882,Remedios Lamas Garriga,29,Masculino,San Isidro,VIP
+1883,Arturo Agullo Zorrilla,35,Femenino,Miraflores,Nuevo
+1884,Segismundo Cepeda-Rosales,54,Masculino,Pueblo Libre,Frecuente
+1885,Ángel Manzano Pareja,61,Femenino,Jesús María,Nuevo
+1886,Hermenegildo Lorenzo Ibañez,63,Masculino,La Molina,VIP
+1887,Ignacio Gimenez Nicolau,19,Femenino,Surco,Nuevo
+1888,Adriana Villar Fábregas,18,Masculino,San Miguel,Nuevo
+1889,Aroa Rubio Quiroga,42,Masculino,San Miguel,Frecuente
+1890,Edgardo Jiménez Escolano,51,Femenino,Surco,Nuevo
+1891,Francisca Cueto Tormo,20,Femenino,San Miguel,VIP
+1892,Olga del Gómez,35,Masculino,San Miguel,Frecuente
+1893,Abril Plaza Lorenzo,69,Masculino,La Molina,VIP
+1894,Cándido Sola Dalmau,32,Femenino,Pueblo Libre,Nuevo
+1895,Carmina Anselma Daza Sobrino,47,Femenino,Barranco,Nuevo
+1896,Cristian Peiró Duran,61,Masculino,San Miguel,Nuevo
+1897,Gustavo del Solano,61,Femenino,San Miguel,Nuevo
+1898,Édgar Llamas Rivas,50,Femenino,Surco,VIP
+1899,Ángel Bustamante Fonseca,22,Femenino,San Borja,Nuevo
+1900,Ema del Lledó,67,Femenino,Lince,VIP
+1901,Yolanda Ruano-Martí,19,Femenino,Barranco,Nuevo
+1902,Tere Monreal Gaya,63,Masculino,Surco,Nuevo
+1903,Lilia Amador-Peña,60,Femenino,Barranco,Nuevo
+1904,Celso Torre Aller,42,Masculino,La Molina,Nuevo
+1905,Bonifacio Fuentes Morera,40,Femenino,San Borja,Nuevo
+1906,Telmo Ramis Raya,36,Masculino,Barranco,VIP
+1907,Agustina Bru Llamas,41,Femenino,San Isidro,Nuevo
+1908,Mariana Calvo,49,Masculino,Miraflores,Nuevo
+1909,Chus Ureña Román,30,Femenino,Miraflores,Frecuente
+1910,Erasmo de Losada,22,Masculino,San Isidro,Frecuente
+1911,Severino Peñas Mateo,66,Masculino,San Borja,VIP
+1912,Ariel del Mendizábal,53,Masculino,Pueblo Libre,VIP
+1913,Juanita Castro Manrique,55,Femenino,Pueblo Libre,Nuevo
+1914,Lucio Heras,57,Femenino,La Molina,Nuevo
+1915,Amelia Casal Vall,63,Femenino,San Miguel,Nuevo
+1916,Eligia Mateo Guerrero,62,Masculino,La Molina,Frecuente
+1917,Dionisio Salazar Padilla,25,Masculino,Miraflores,Nuevo
+1918,Armida Garcia,27,Masculino,Lince,VIP
+1919,Jesusa Morillo Mir,57,Femenino,San Miguel,Nuevo
+1920,Casemiro Tamarit Solsona,36,Masculino,Surco,Nuevo
+1921,Nando Barón Girón,64,Masculino,Lince,Nuevo
+1922,Agustina Vicens Nebot,25,Femenino,San Isidro,Nuevo
+1923,Olalla Solano-Rivera,56,Masculino,Miraflores,Nuevo
+1924,Teodora del Benitez,60,Masculino,Jesús María,Frecuente
+1925,Nilda Mur Rubio,53,Femenino,Surco,Frecuente
+1926,Natividad Sancho Guillen,22,Masculino,Lince,Nuevo
+1927,Nadia Nevado Peralta,45,Masculino,La Molina,Nuevo
+1928,Ale Revilla Marco,54,Masculino,Surco,Frecuente
+1929,Rita Lorenzo Lastra,36,Masculino,Jesús María,Nuevo
+1930,Aitana Perez Roldán,59,Femenino,La Molina,Frecuente
+1931,Olegario de Cuadrado,24,Masculino,La Molina,Nuevo
+1932,Isaac Pagès Cardona,36,Femenino,Surco,Nuevo
+1933,Blas Moll Pazos,68,Masculino,La Molina,Nuevo
+1934,Baltasar Gallo Rivero,44,Femenino,Miraflores,Frecuente
+1935,Juana Conde Chacón,24,Femenino,Lince,Nuevo
+1936,Humberto del Vila,32,Masculino,Jesús María,Nuevo
+1937,Evangelina Bermúdez Cañellas,18,Femenino,La Molina,Nuevo
+1938,Mireia Aguado-Torralba,59,Masculino,La Molina,Nuevo
+1939,Hector Lucena Bello,22,Masculino,Surco,Nuevo
+1940,Hortensia Bellido Pascual,68,Masculino,Pueblo Libre,Frecuente
+1941,Josefina Infante Aranda,62,Masculino,Barranco,Nuevo
+1942,Aránzazu Abellán Rosales,18,Masculino,Lince,Frecuente
+1943,Gustavo Echeverría Peralta,26,Masculino,La Molina,Nuevo
+1944,Amador Tena Barragán,44,Femenino,Surco,Nuevo
+1945,Victor Boix-Bilbao,39,Femenino,San Isidro,Nuevo
+1946,Isidoro de Guardiola,60,Masculino,Miraflores,Frecuente
+1947,Adolfo Verdú Rivera,33,Masculino,Lince,Nuevo
+1948,Carlito Bayón Arana,42,Masculino,Jesús María,Nuevo
+1949,Virgilio Donoso Castañeda,37,Femenino,San Isidro,Nuevo
+1950,Fito Bustos Montes,31,Femenino,Barranco,Nuevo
+1951,Reyes Menéndez Figueroa,69,Femenino,San Isidro,Nuevo
+1952,Jordi Garmendia-Lastra,22,Masculino,San Borja,Frecuente
+1953,Roxana América Cabezas González,22,Masculino,San Isidro,Nuevo
+1954,Evangelina Araujo-Vendrell,69,Femenino,Pueblo Libre,Nuevo
+1955,Rita Llamas Mata,25,Masculino,San Borja,Nuevo
+1956,Esteban Morcillo Folch,41,Masculino,San Borja,Nuevo
+1957,Maricruz Verdejo,46,Femenino,San Isidro,Frecuente
+1958,Rubén Llano,52,Masculino,La Molina,Frecuente
+1959,Raquel Casares Palomino,32,Femenino,Surco,Nuevo
+1960,Francisca Palacio Ródenas,36,Masculino,Lince,Frecuente
+1961,Luis Miguel Corral Vidal,65,Masculino,Lince,VIP
+1962,Félix del Grande,37,Femenino,Pueblo Libre,Nuevo
+1963,Delia Torrent Romeu,29,Masculino,Lince,Nuevo
+1964,Joaquina Santamaría Cabrera,62,Femenino,San Isidro,Nuevo
+1965,Teo de Tello,58,Masculino,Miraflores,Nuevo
+1966,Cayetana Durán Espinosa,19,Femenino,San Miguel,Frecuente
+1967,Sandra Fonseca Carnero,58,Femenino,Miraflores,VIP
+1968,Guillermo de Jurado,47,Femenino,Surco,Frecuente
+1969,Casandra Villa-Bermudez,53,Femenino,San Miguel,Nuevo
+1970,Pastora Montero Nicolau,24,Femenino,Lince,Nuevo
+1971,Fernanda Franch,70,Masculino,Miraflores,Frecuente
+1972,Toño Cardona Aliaga,48,Femenino,San Miguel,Nuevo
+1973,Elisa Roselló Palomares,50,Masculino,San Miguel,Nuevo
+1974,Cesar del Vara,46,Femenino,Barranco,Frecuente
+1975,Tecla Roura Bonet,22,Femenino,Surco,Frecuente
+1976,Marisol Jara Pol,19,Femenino,Lince,Nuevo
+1977,Máximo de Tovar,66,Femenino,Miraflores,Frecuente
+1978,Merche de Rocamora,49,Masculino,San Borja,Nuevo
+1979,Bernardita Arco Gomila,56,Masculino,Miraflores,Frecuente
+1980,Gastón Palau Posada,20,Masculino,San Isidro,Nuevo
+1981,Borja del Briones,28,Femenino,La Molina,Nuevo
+1982,Ramón Reina Aznar,50,Femenino,San Miguel,VIP
+1983,Teófilo Llobet Pereira,67,Masculino,Pueblo Libre,Frecuente
+1984,Teresita Ríos Tejera,58,Femenino,Barranco,VIP
+1985,Florentino Mendoza,47,Masculino,San Borja,Nuevo
+1986,Ani Noguera Arenas,31,Femenino,San Borja,Nuevo
+1987,Ibán Figueroa Crespi,47,Masculino,Miraflores,Frecuente
+1988,Ricarda Romeu Cuenca,54,Masculino,San Borja,Nuevo
+1989,Rosendo Ríos Valbuena,50,Masculino,La Molina,Nuevo
+1990,Leocadia Talavera Donaire,61,Femenino,Surco,Nuevo
+1991,Quique Sánchez Campillo,61,Femenino,Lince,Frecuente
+1992,Bartolomé Zapata Torrecilla,66,Masculino,Surco,Frecuente
+1993,Catalina de Cruz,65,Femenino,Pueblo Libre,Nuevo
+1994,Rita Talavera Perales,42,Femenino,Pueblo Libre,VIP
+1995,Hernando Faustino Arranz Valenciano,62,Femenino,Jesús María,Nuevo
+1996,Román Exposito Valencia,36,Femenino,Pueblo Libre,Nuevo
+1997,Ámbar de Carbonell,63,Femenino,Miraflores,Nuevo
+1998,Lalo Escamilla Catalá,60,Femenino,Surco,Nuevo
+1999,Alejo Franch Higueras,29,Masculino,San Isidro,Nuevo
+2000,Renata Cornejo,19,Masculino,Surco,Frecuente

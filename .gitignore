@@ -1,0 +1,44 @@
+# Credenciales y variables de entorno
+.env
+*.env
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+logs/*.log
+
+# Archivos temporales
+*.tmp
+*.temp
+~$*
+
+# Power BI temporales
+*.pbit.lock
+*.pbix.lock
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Archivos de configuración local
+.streamlit/secrets.toml
