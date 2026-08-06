@@ -281,7 +281,7 @@ La aplicación también incluye:
 * Descarga de resultados en CSV.
 * Recomendaciones automáticas.
 
-![Aplicación Streamlit](docs/screenshots/copiloto.png)
+![Aplicación Streamlit](docs/screenshots/Copiloto.png)
 
 ---
 
@@ -391,7 +391,7 @@ AI_Customer_Operations_Intelligence/
 ### 1. Clonar el repositorio
 
 ```bash
-git clone URL_DEL_REPOSITORIO
+git clone https://github.com/elChris28/AI_Customer_Operations_Intelligence.git
 cd AI_Customer_Operations_Intelligence
 ```
 
