@@ -1,6 +1,5 @@
         AI Customer Operations Intelligence
 
-
           Generador de datos sintéticos
                     │
                     ▼
